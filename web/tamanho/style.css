@@ -1,0 +1,59 @@
+input{
+    color: aqua;
+    max-height: 100px;
+    width: 50px;
+
+
+}
+h1{
+    border-style: solid;
+    outline-style: dotted;
+    outline-offset: 4px;
+}
+/*-------manipular texto
+         text-align:
+    center
+    left
+    right
+    justify
+        direção de texto
+    directione:   ;
+    unicode-bidi
+        alinhamento vertical-align:
+    baseline
+    text-top
+    text-bottom
+    sub
+    super
+
+*/
+h2{
+    color: darkslateblue;
+    background-color: azure;
+    text-align: center;
+
+}
+
+
+/*
+-------------propriedades de contorno:
+
+outline-style
+outline-color
+outline-width
+outline-offset
+outline
+
+---------------bordas outline-style
+
+dotted - Define uma borda pontilhada
+dashed - Define uma borda tracejada
+solid - Define uma borda sólida
+double - Define uma borda dupla
+groove- Define uma borda com sulcos 3D. O efeito depende do valor da cor da borda
+ridge- Define uma borda estriada 3D. O efeito depende do valor da cor da borda
+inset- Define uma borda de inserção 3D. O efeito depende do valor da cor da borda
+outset- Define uma borda de início 3D. O efeito depende do valor da cor da borda
+none - Não define nenhuma fronteira
+hidden - Define uma borda oculta
+*/

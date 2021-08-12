@@ -1,0 +1,740 @@
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+Rio de Janeiro Dezembro / 2015
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+Instituto Nacional da Propriedade Industrial - INPI Presidente: Luiz Otávio Pimentel Vice-presidente: Mauro Sodré Maia
+Diretoria de Cooperação para o Desenvolvimento - Dicod Diretora: Denise Nogueira Gregory
+Centro de Disseminação da Informação Tecnológica - Cedin Coordenador-Geral: Luiz Gomes Ribeiro Filho
+Coordenação de Pesquisa em Inovação e Propriedade Intelectual - Copip Coordenadora: Rafaela Di Sabato Guerrante
+Divisão do Observatório Tecnológico - OBTEC Chefe de Divisão: Alexandre Lopes Lourenço
+Autores Cristina d’Urso de Souza Mendes Bernardo Furtado Nunes Rafaela Di Sabato Guerrante Alexandre Lopes Lourenço Denise Neves Menchero Palácio Cristiane Fernandes Gorgulho Adelaide Maria de Souza Antunes
+Colaboradores Priscila Rohem dos Santos Sabrina da Silva Santos Gandara
+Ficha catalográfica elaborada pela Biblioteca Economista Cláudio Treiguer – INPI
+R382r Relatório de cooperação técnica entre INPI e Abiquim nas comissões setoriais/ Cristina D’Urso de Souza Mendes [et al.]. Rio de Janeiro: Instituto Nacional
+da Propriedade Industrial – INPI, Diretoria de Cooperação para o Desenvolvimento – DICOD, Centro de Disseminação da Informação Tecnológica – CEDIN, Coordenação de Pesquisa em Inovação e Propriedade Intelectual – COPIP, Divisão do Observatório Tecnológico – OBTEC, 2015.
+29 fls.; il.; tabs. - Estudos Setoriais
+1. Informação Tecnológica 2. Química – Couros. 3. Química – Silicone. 4. Química – Borracha. 5. Química – Corantes. 6. Química – Pigmentos. I. Instituto acional da Propriedade Industrial (Brasil). II. Lourenço, Alexandre Lopes. III. Nunes, Bernardo Furtado. IV. Palácio, Denise Neves Menchero. V. Santos, Priscila Rohem dos. VI. Guerrante, Rafaela Di Sabato. VII. Título.
+CDU: 347.77:54
+INPI/DICOD/CEDIN/COPIP/OBTEC | Introdução 2
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+Sumário
+1 Introdução ........................................................................................................ 4 2 A importância da informação tecnológica contida em documentos de patente 7 3 Uso estratégico da informação tecnológica de patentes na indústria química14
+3.1 Mapeamento tecnológico em cada comissão setorial....................... 14 3.1.1 Comissão setorial de produtos químicos para couro ......................... 15 3.1.2 Comissão setorial de silicones .......................................................... 16 3.1.3 Comissão setorial de poliéster insaturado ......................................... 18 3.1.4 Comissão de colas, adesivos e selantes ........................................... 18 3.1.5 Comissão de insumos para borracha ................................................ 21 3.1.6 Comissão de corantes e pigmentos................................................... 21
+3.2 Identificação de atores ......................................................................... 22 3.3 Tendências tecnológicas ..................................................................... 23 3.4 Liberdade de operação......................................................................... 27 4 Considerações finais ...................................................................................... 28 5 Referências bibliográficas .............................................................................. 29
+INPI/DICOD/CEDIN/COPIP/OBTEC | Introdução 3
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+1 Introdução
+Os rumos da indústria química nacional estão vinculados a diversas questões macroeconômicas globais. Apesar de a indústria química nacional figurar entre as dez principais indústrias químicas do mundo, a disparidade entre a realidade nacional e o restante do mundo é grande. Considerando somente as indústrias dos dois principais países, Estados Unidos e China, verifica-se que estes respondem por cerca de 40% do faturamento mundial.
+Assim, é cada vez mais difícil competir com a China, que ganha cada vez mais com escala e competitividade extremamente favorável no mercado internacional, ou com países como Estados Unidos, Japão, Alemanha e Coreia do Sul, tecnologicamente mais avançados e que trabalham na fronteira tecnológica.
+Ademais, a China tem avançado tecnologicamente, não competindo mais somente por preço, e os países tecnologicamente avançados têm transferido seus parques fabris para outros países com custos operacionais menores, aumentando a competitividade de seus produtos.
+Nesse contexto, tem sido tarefa difícil manter a participação da indústria química nacional nos mercados externo e interno. O resultado é percebido na balança comercial setorial com déficit crescente e no hiato tecnológico de difícil reversão.
+Dada sua importância para o País como indústria de base e fornecedora de insumos para praticamente todos os outros setores da economia, verifica-se a necessidade de ações que permitam reverter essa situação. Para isso, é importante entender que o setor apresenta peculiaridades e que, na prática, abriga indústrias muito diferentes em grau de complexidade dos produtos elaborados e necessidades.
+INPI/DICOD/CEDIN/COPIP/OBTEC | Introdução 4
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+Apesar de suas especificidades, todas as empresas têm, em comum, a necessidade de agregar valor tecnológico a seus produtos na tentativa de competir no mercado internacional por diferenciação, bem como a necessidade de agregar tecnologia a processos de produção, visando aumentar a produtividade e, assim, praticar melhores preços de venda ou auferir maior margem de lucro.
+No tocante à propriedade industrial, especificamente no que diz respeito a patentes, a indústria química figura entre as mais dependentes deste sistema para a proteção de novos produtos, uma vez que o grau de dificuldade e o custo para realizar a engenharia reversa tornam possível esta prática pelos concorrentes.
+Considerando-se que o ciclo de vida das tecnologias dessa indústria é bastante longo, boa parte das que estão em domínio público ainda podem encontrar mercado. Alguns exemplos podem ser observados nos setores agrícola e farmacêutico, nos quais a tecnologia em domínio público tem sido utilizada pela indústria nacional.
+Fica evidente que, entre outras ações, o conhecimento aprofundado da propriedade industrial é necessário e pode contribuir para o desenvolvimento do setor no Brasil. Hoje, entre 70 e 90% das tecnologias em diferentes setores da química não estão protegidas por patentes no País, o que sinaliza para um grande número de oportunidades no mercado brasileiro. Neste contexto, mapear a informação tecnológica de patentes se faz crucial para identificar oportunidades e rumos tecnológicos a serem seguidos em cada campo específico da química.
+Além disso, do ponto de vista da empresa, o uso da informação tecnológica, permite acompanhar a direção do desenvolvimento tecnológico, que é essencial para sua sobrevivência no mercado, uma vez que a empresa pode orientar seus esforços de pesquisa e desenvolvimento de inovações conforme sua estratégia de competição, evitando desperdício de recursos e consolidando vantagens
+INPI/DICOD/CEDIN/COPIP/OBTEC | Introdução 5
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+competitivas. Além disso, o monitoramento tecnológico permite que a empresa agregue aspectos tecnológicos de seus concorrentes à sua inteligência competitiva, permitindo identificar em que tecnologias estão investindo, bem como avaliar potenciais agentes colaboradores para desenvolvimento tecnológico conjunto, como universidades ou instituições de pesquisa. Do ponto de vista da sociedade, uma agenda de desenvolvimento econômico perpassa pelo desenvolvimento e emprego de tecnologias. Nesse sentido, o mapeamento tecnológico permite subsidiar políticas públicas, marcos regulatórios e investimentos públicos por meio da identificação das competências tecnológicas nacionais, da detecção de rotas tecnológicas alternativas e da constatação de tecnologias disponíveis para exploração comercial no território nacional. As ações de informação tecnológica podem, por exemplo, identificar soluções que permitam agregar valor aos produtos, identificar novos mercados, aumentar a produtividade, identificar processos mais limpos e econômicos, incorporar tecnologias de ponta, como a biotecnologia ou a nanotecnologia, entre outras. Isto posto, o presente relatório tem por objetivo apresentar: (a) na primeira seção, a importância da informação tecnológica contida em documentos de patente; e (b) na segunda seção, os resultados dos estudos preliminares desenvolvidos em parceria com algumas das comissões setoriais da Abiquim, estudos estes baseados na informação contida em documentos de patente.
+INPI/DICOD/CEDIN/COPIP/OBTEC | Introdução 6
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+2 A importância da informação tecnológica contida em documentos de patente
+A propriedade de um bem intangível, no caso da patente de invenção ou da patente de modelo de utilidade1, é concedida pelo Estado ao titular do pedido que atender os requisitos de patenteabilidade. Esse direito é concedido por meio de Carta Patente, a qual permite que o detentor impeça que terceiros produzam, usem, vendam ou importem a tecnologia protegida sem seu consentimento. Esta proteção se estende por um período de 15 anos para as patentes de modelo de utilidade e de 20 anos para as patentes de invenção. Após o término deste período, a tecnologia está livre para ser explorada em toda sua plenitude pelos interessados.
+A patente é um direito territorial e cada Estado é soberano para analisar e conceder este direito, ou seja, por mais que uma tecnologia tenha um pedido depositado em apenas um ou em diversos países, se ela não for depositada no Brasil ou tiver sido denegada em todas as instâncias no País, esta tecnologia estará livre para exploração em sua totalidade no território nacional por qualquer interessado.
+Desta forma, o uso da informação contida em documentos de patente é muito importante para o monitoramento do desenvolvimento tecnológico de um determinado setor. Estes documentos englobam grande parcela do conhecimento
+1A invenção é a criação de algo resultante da capacidade intelectual do seu autor e que representa uma solução nova para um problema existente, em uma determinada área tecnológica possuindo atividade inventiva. As invenções podem estar relacionadas a produtos industriais (compostos, composições, objetos, aparelhos, dispositivos, etc.) e a atividades industriais (processos, métodos, etc.). O modelo de utilidade é a criação de algo resultante da capacidade intelectual do seu autor, referindo-se a um objeto de uso prático ou parte deste. Este objeto deve ser tridimensional (como instrumentos, utensílios e ferramentas) e apresentar nova forma ou disposição que envolva ato inventivo e resulte em melhoria funcional no seu uso ou fabricação. As patentes de Invenção visam a proteção das criações de caráter técnico para solucionar problemas em uma área tecnológica específica, enquanto as patentes de Modelo de Utilidade são objetos que, sem visar um efeito técnico peculiar se destinam a melhorar o uso do objeto, podendo acarretar maior eficiência ou comodidade em seu uso. Diretrizes de exame de patentes de modelo de utilidade DIRPA/2012. Acessível em: http://www.inpi.gov.br/legislacao-arquivo/docs/resolucao_85-13-anexo_diretrizes_mu.pdf
+INPI/DICOD/CEDIN/COPIP/OBTEC | A importância da informação tecnológica contida em 7 documentos de patente
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+tecnológico do mundo, sendo que parte da informação proveniente de literatura patentária não está replicada em outras fontes de informação.
+O processo para obtenção da patente envolve a divulgação de uma série de informações com propósitos legais e administrativos. A publicidade desses dados e a promoção de seu uso pela sociedade fazem parte da contrapartida do sistema de propriedade industrial, que tem como filosofia garantir ao inventor a exclusividade temporária, como forma de incentivo à invenção, mas, em troca, prevê que a invenção seja revelada em sua totalidade para que terceiros interessados possam fazer uso do conhecimento desenvolvido.
+O sistema de patentes contém informação organizada e em diversos idiomas, disposta em mais de 90 milhões de documentos que podem ser facilmente acessados nos acervos dos escritórios de patentes, dispostos em bases de dados gratuitas (como Espacenet, Patentscope, Google Patents, etc.) e em bases comerciais.
+Um documento de patente contém grande quantidade de informações, todas com potencial de utilização em análises estatísticas e em estudos qualitativos com diferentes objetivos. Estas informações englobam tanto detalhes técnicos da invenção como outras informações importantes, que permitem identificar os inventores, os detentores da tecnologia, o local/país onde a invenção foi desenvolvida, os mercados onde se busca exclusividade, a situação do pedido de patente, entre outras inferências (OCDE, 2009).
+A estrutura de um documento de patente é, em geral, a mesma em países diferentes, seguindo padronização internacional. Seu conteúdo está organizado em campos, tais como relatório descritivo, reivindicações, desenhos e resumo, de modo que a informação pode ser acessada com relativa facilidade. Além disso, na maioria dos países, os documentos de patente estão agrupados, de acordo com a
+INPI/DICOD/CEDIN/COPIP/OBTEC | A importância da informação tecnológica contida em 8 documentos de patente
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+Classificação Internacional de Patentes (CIP) 2 3, o que permite que a informação tecnológica sobre distintos setores seja recuperada de forma rápida e refinada.
+Por meio das datas do depósito e da publicação é possível visualizar, temporalmente, a evolução de tecnologias em um determinado campo tecnológico. Outras informações, como aquelas referentes aos detentores da patente, permitem identificar a existência ou não de parcerias no desenvolvimento de tecnologias, bem como mapear os agentes que lideram esse desenvolvimento. No caso específico dos inventores, é possível apontar quem são os especialistas que detêm o conhecimento em determinadas áreas tecnológicas e como eles se relacionam em termos de rede de colaboração para o desenvolvimento tecnológico.
+Estas informações podem ser utilizadas para o desenvolvimento de estudos com objetivos diversos, como: monitoramento da performance tecnológica de empresas, instituições, regiões ou países; identificação de tecnologias emergentes; difusão do conhecimento e dinâmica da mudança técnica; geografia da invenção (em que região do mundo foi elaborada e onde busca-se proteção do mercado); redes de inventores; valor econômico da invenções; performance e mobilidade de pesquisadores; o papel de universidades no desenvolvimento tecnológico; globalização das atividades de P&D; estratégia de patenteamento das empresas; entre outros.
+Para exemplificar como a informação contida em documentos de patente pode ser utilizada na indústria química, o presente estudo apresenta resultados preliminares de levantamentos de patente para seis (6) comissões setoriais da Abiquim, a saber: comissão de produtos químicos para couros, comissão de adesivos e
+2 A versão atualizada está disponível em: <http://www.wipo.int/classifications/ipc/>. 3 Classificação Internacional de Patentes (CIP) - Classificação comum para patentes de invenção, incluindo os pedidos de patentes publicados, certificados de inventores, modelos de utilidade e certificados de adição, firmada pelo acordo de Estrasburgo em 1971 e que entrou em vigor em 1975. (http://ipc.inpi.gov.br/ipcpub/shared/htm/GuiaIPC2012_port.pdf )
+INPI/DICOD/CEDIN/COPIP/OBTEC | A importância da informação tecnológica contida em 9 documentos de patente
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+selantes, comissão de poliésteres insaturados, comissão de insumos para borrachas, comissão de silicones e comissão de pigmentos e corantes.
+Os resultados são mostrados em duas etapas: a primeira exemplifica o levantamento de documentos de patente nas áreas tecnológicas das comissões; e a segunda apresenta exemplos de como a informação tecnológica contida em documentos de patente pode ser trabalhada de modo a gerar estudos com inferências estratégicas que podem contribuir para o aumento da competitividade da indústria química brasileira. Estes estudos podem envolver a identificação de atores (inventores e instituições envolvidas no desenvolvimento de invenções); monitoramento tecnológico (tendências tecnológicas, identificação de tecnologias emergentes, etc.) e a determinação da liberdade de operação em distintos mercados. Os três tipos de estudos são detalhados a seguir.
+A - Identificação de atores
+A identificação de atores, ou mapeamento de competências, é feita a partir da identificação dos depositantes de pedidos de patente, a fim de monitorar concorrentes e/ou verificar potenciais agentes colaboradores no desenvolvimento de invenções.
+Ter acesso à publicação de uma patente ou a um conjunto de patentes depositadas por um agente do setor é um uso importante da informação tecnológica, pois, logo após a publicação do pedido, já é possível saber em que direção caminha a pesquisa de concorrentes e eventuais parceiros.
+É possível verificar, também, quais são as estratégias dos depositantes quanto à proteção de suas tecnologias, identificando, por exemplo, em quais países foram feitos os depósitos, e, com isso, inferir quais são os mercados consumidores de interesse para essas tecnologias. Ao considerar o depósito de patente como um
+INPI/DICOD/CEDIN/COPIP/OBTEC | A importância da informação tecnológica contida em 10 documentos de patente
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+indicador de resultado de esforços em pesquisa e desenvolvimento, também é possível avaliar em quais tecnologias determinados agentes estão investindo, verificando se estão apostando em tecnologias alternativas, de nicho ou já maduras.
+Ademais, a identificação de atores que são titulares de pedidos de patente favorece as negociações de transferência de tecnologia, podendo oferecer alternativas mais convenientes para a indústria, quando da aquisição ou do licenciamento de tecnologias.
+B - Tendências tecnológicas
+O conjunto de documentos de patente relacionados a uma tecnologia específica revela sua evolução e o estado da técnica vigente no período. Dessa forma, a análise das informações tecnológicas contidas em documentos de patente pode apontar novos caminhos de pesquisa, soluções alternativas para a resolução de problemas, assim como indicar tecnologias emergentes.
+Com base nisso, a documentação de patentes pode evitar o desperdício de recursos e esforços na busca de soluções já desenvolvidas para problemas existentes. Logo, é desejável que a pesquisa e o desenvolvimento sejam orientados pelas informações tecnológicas provenientes da documentação patentária, de modo que esforços inventivos se concentrem a partir dos avanços tecnológicos mais recentes de uma tecnologia, prevenindo o dispêndio duplicado e/ou mal alocado de recursos financeiros e humanos na pesquisa.
+Segundo estimativa da Organização Britânica de Patentes, £20 bilhões por ano são desperdiçadas na Comunidade Europeia devido a invenções duplicadas (UK Intellectual Property Office, 2007). Outro estudo, feito na Alemanha, concluiu que
+INPI/DICOD/CEDIN/COPIP/OBTEC | A importância da informação tecnológica contida em 11 documentos de patente
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+os custos de P&D poderiam ser reduzidos em 30%, caso a informação técnica disponível fosse utilizada (Austrian Patent Office, 2007).
+Desta forma, conhecer as tendências tecnológicas em determinado setor é de extrema relevância para as decisões de investimentos de empresas, pois elas podem identificar o grau de obsolescência de suas tecnologias e reconhecer oportunidades tecnológicas.
+C - Liberdade de operação
+Identificar a liberdade de operação em um campo tecnológico no País significa avaliar patentes que já tiveram seu período de validade encerrado; aquelas que, apesar de depositadas no Brasil, não foram concedidas (foram denegadas em todas as instâncias); ou aquelas que não foram aqui depositadas. Essa é uma das possibilidades do uso da informação tecnológica de patentes e um passo obrigatório sempre que se pretende produzir, comercializar ou importar um produto. Este tipo de análise permitirá verificar quais são as tecnologias que poderão ser utilizadas sem custo de licenciamento ou pagamento de royalties.
+Conforme dito anteriormente, a patente concede, ao titular, o direito de excluir terceiros da exploração comercial do invento protegido. No entanto, esse direito é territorial, ou seja, só é válido nos países em que a patente foi concedida. Embora o direito seja territorial, a informação tecnológica sobre a invenção é disponibilizada para todo o mundo.
+Portanto, é possível identificar em quais países uma tecnologia ou um conjunto de tecnologias estão protegidas. No caso de não haver proteção no Brasil, é legítimo o direito de explorá-las economicamente. Caso uma tecnologia esteja livre em outros países também, ela poderá ser não somente produzida e comercializada no Brasil, mas também exportada para esses países.
+INPI/DICOD/CEDIN/COPIP/OBTEC | A importância da informação tecnológica contida em 12 documentos de patente
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+A análise de liberdade de operação também inclui a avaliação da situação dos pedidos de patente depositados no Brasil, pois, de fato, alguns podem ter sido arquivados definitivamente ou o pedido ter sido indeferido em todas as instâncias4. Nesses casos, há a liberdade de exploração do invento ainda que o pedido de patente tenha sido depositado no Brasil.
+4 Na Lei 9.279 são definidos os prazos administrativos legais. Na instância administrativa, um pedido deve ser arquivado definitivamente segundo art. 16 parágrafo 2º, art. 33, único, art. 36, 1º, art. 38, 2º, art. 212, 2º, art. 216, 2º. Considerando-se a instância legal, uma patente concedida ou um pedido indeferido pode ter a decisão administrativa questionada e revertida a qualquer tempo. Resumidamente é preciso considerar as instâncias administrativas, porém não se deve deixar de considerar as instâncias legais.
+INPI/DICOD/CEDIN/COPIP/OBTEC | A importância da informação tecnológica contida em 13 documentos de patente
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+3 Uso estratégico da informação tecnológica de patentes na indústria química
+No presente capítulo são apresentados os resultados dos estudos desenvolvidos no âmbito da cooperação entre o INPI e a Abiquim, com o objetivo de ilustrar os tipos de estudos que podem ser elaborados utilizando-se a informação contida em documentos de patente.
+Estes primeiros levantamentos foram conduzidos, principalmente, com a finalidade de sensibilizar a indústria química nacional para a importância do uso estratégico da informação tecnológica contida em documentos de patente. Os estudos tiveram seus focos direcionados para assuntos de interesse estratégico de seis comissões temáticas da Abiquim: produtos químicos para couro; colas, adesivos e selantes; silicones; corantes e pigmentos; poliésteres insaturados e insumos para borracha.
+3.1 Mapeamento tecnológico em cada comissão setorial
+Neste item, são elencadas as classificações de patente empregadas na recuperação dos documentos de patente das áreas de interesse indicadas por cada uma das comissões temáticas da Abiquim. Os referidos documentos foram buscados em bases de patentes para o período de 2004 a 2014 (data de publicação), à exceção da comissão setorial de corantes, para a qual foram buscados os documentos de patente publicados entre 2009 e 2014. A análise destes documentos é apresentada no item 3.2.
+Para algumas comissões, em função do grande número de documentos de patentes recuperados, foram avaliadas, em especial, as classificações de patente
+INPI/DICOD/CEDIN/COPIP/OBTEC | Uso estratégico da informação tecnológica de patentes 14 na indústria química
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+mais recorrentes. Assim foi possível estabelecer uma comparação entre áreas tecnológicas mais pesquisadas pelas empresas das comissões e a realidade mundial. 3.1.1 Comissão setorial de produtos químicos para couro Para selecionar os documentos de patente em tecnologias relacionadas a produtos químicos para couro, foi utilizada a Classificação Internacional de Patentes C14C, que compreende tratamento de peles, couro cru ou couros com químicos, enzimas ou micro-organismos. Foram recuperados 1.878 documentos de patente depositados e publicados no mundo no período de 2004 a março de 2014. Analisando-se estes pedidos em relação à Classificação Internacional (quadro 1), observa-se que as tecnologias desenvolvidas no mundo estão mais voltadas para impregnação de couro (37%) e acabamento da superfície de couro (33%), foco tecnológico também seguido pelas empresas da comissão, com depósitos em impregnação (20%) e acabamento de superfícies de couro (27%). Para as empresas pertencentes a comissão da Abiquim, a etapa de curtimento também se destaca com 20% dos depósitos, muito provavelmente pelo fato dessas empresas estarem presentes no Brasil, país com grande disponibilidade de matéria-prima (couro cru).
+INPI/DICOD/CEDIN/COPIP/OBTEC | Uso estratégico da informação tecnológica de patentes 15 na indústria química
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+
+Quadro 1 - Distribuição dos documentos de patente pelas classificações internacionais de patente mais recorrentes
+
+CIP
+C14C 9/00 C14C 11/00 C14C 3/00 C14C 3/08
+
+Descrição da CIP
+Impregnação do couro para conservação, impermeabilização, tornando-o resistente ao calor ou fins similares Acabamento da superfície do couro Curtimento; Composição para o curtimento Curtimento químico por agentes orgânicos
+
+Distribuição percentual dos documentos das empresas que
+compõem a comissão
+37%
+33% 30%
+20%
+
+Distribuição percentual dos documentos no
+mundo
+20%
+27% 20%
+8%
+
+C14C 1/00
+C14C 3/28 C09D 175/04 C14C 3/20
+C14C 3/22 C08G 18/00
+
+Tratamento de peles ou couros com produtos químicos, enzimas ou microorganismos, antes do curtimento
+Curtimento químico por processos de etapas múltiplas Composições de revestimento à base de poliuretanas e derivados de tais polímeros Curtimento químico por agentes orgânicos com produtos de policondensação ou com seus precursores: sulfonados Curtimento químico por agentes orgânicos com produtos de polimerização Produtos poliméricos de isocianatos ou isotiocianatos
+
+14%
+14% 13% 12%
+12% 11%
+
+13%
+5% 4% 2%
+6% 2%
+
+Fonte: Elaboração própria.
+
+Por orientação da Comissão Setorial de Produtos Químicos para Couro, a amostra de documentos de patente foi restringida para aqueles classificados na CIP C14C 9/00, impregnação do couro, com um total de 372 documentos de patente.
+
+3.1.2 Comissão setorial de silicones
+Os silicones são uma classe de materiais sintéticos, encontrados em diversos objetos do dia-a-dia e largamente empregados em processos industriais. Em função da diversidade de aplicações, existe um grande número de classificações de patente (CIP) que abrangem: produtos feitos de silicone, seus processos de
+
+INPI/DICOD/CEDIN/COPIP/OBTEC | Uso estratégico da informação tecnológica de patentes 16 na indústria química
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+
+produção e o silicone em si. O quadro 2 mostra as classificações CIP referentes aos produtos de silicone e a seus processos de produção.
+
+Quadro 2 - Lista de classificação internacional de patentes relativas a silicones (processos, produtos, composições e aplicações)
+
+Categoria Processo Produto
+Composição Aplicações
+
+CIP C08G 77/04 C08G 77/06 C08G 77/08 C08G 77/10 C08G 77/32 C08G 77/34 C08G 77/36 C08G 77/12 C08G 77/14 C08G 77/16 C08G 77/18 C08G 77/20
+C08G 77/22
+C08G 77/24 C08G 77/26 C08G 77/28 C08G 77/30 C08G 77/38
+C08G 77/382
+C08G 77/385 C08G 77/388 C08G 77/392 C08G 77/395 C08G 77/398
+C08L 83/00
+C08L 83/04 C08L 83/05 C08L 83/06 C08L 83/07
+C08L 83/08
+C08L 83/10
+C08L 83/12
+C08L 83/14
+C08L 83/16
+A61K 8/89
+
+Descrição ·Polissiloxanas ··Processo de preparação ···Caracterizados pelos catalisadores utilizados ···Processos de equilibração ··Tratamento de pós-polimerização ···Purificação ···Fracionamento ··Contendo silício ligado ao hidrogênio ··Contendo silício ligado a grupos contendo oxigênio ···a grupos hidroxila ···a grupos alcóxi ou arilóxi ··Contendo silício ligado a grupos alifáticos insaturados ··Contendo silício ligado a grupos orgânicos contendo átomos outros que não o carbono, o hidrogênio e o oxigênio ···grupos contendo halogênio ···grupos contendo nitrogênio ···grupos contendo enxofre ···grupos contendo fósforo ··Polissiloxanas modificadas por pós-tratamento químico ···contendo átomos outros que não carbono, hidrogênio, oxigênio ou silício ····contendo halogênios ····contendo nitrogênio ····contendo enxofre ····contendo fósforo ····contendo boro ou átomos de metal Composições e seus derivados de compostos macromoleculares obtidos por reações formando na cadeia principal da macromolécula uma ligação contendo silício com ou sem enxofre, nitrogênio, oxigênio ou carbono apenas ·Polissilaxonos ··contendo silício ligado ao hidrogênio ··contendo silício ligado a grupos contendo oxigênio ··contendo silício ligado a grupos alifáticos insaturados ··contendo silício ligado a grupos orgânicos contendo átomos outros que não o carbono, o hidrogênio e o oxigênio ·Copolímeros em bloco ou enxertados contendo segmentos de polissiloxanas ··Contendo segmentos de poliéteres ·em que pelo menos dois átomos de silício mas não sua totalidade são ligados de outra maneira que não por átomos de oxigênio ·em que todos os átomos de silício são ligados de outra maneira que não por átomos de oxigênio Cosméticos ou preparações similares para higiene pessoal
+
+INPI/DICOD/CEDIN/COPIP/OBTEC | Uso estratégico da informação tecnológica de patentes 17 na indústria química
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+
+Categoria
+
+CIP
+C08F 283/12
+C08F 299/08
+C08G 18/61 de C09D 183/04 até C09D
+183/12 de C09J 183/04 até C09J
+183/12
+
+Descrição caracterizados pela composição, contendo compostos orgânicos macromoleculares obtidos por polisiloxanos Compostos macromoleculares obtidos pela polimerização de monômeros sobre polisiloxanos Compostos macromoleculares obtidos por meio de reação interna de polímeros envolvendo apenas reações de ligação insaturada carbono-carbono, na ausência de monômeros não-macromoleculares, a partir de polissiloxanas Produtos poliméricos de isocianatos ou isotiocianatos caracterizados pelo uso de componentes contendo polissiloxanas
+Composições de revestimento à base de Polisiloxanas
+Adesivos à base de Polisiloxanas
+
+Fonte: Elaboração própria.
+
+Por orientação da Comissão Setorial de Silicones, optou-se por trabalhar com as classificações referentes a novos produtos ou processos de silicones (C08G 77/04 a C08G 77/398), totalizando 6.557 pedidos de patente publicados entre 2004 e 2014.
+
+3.1.3 Comissão setorial de poliéster insaturado
+Para selecionar os documentos de patente em tecnologias referentes a poliésteres insaturados, foi utilizada a classificação de patentes C08L 67/06, específica para novos poliésteres insaturados; e a classificação C08L 67/07, uma subdivisão da C08L 67/06, referente a poliésteres insaturados tendo ligações insaturadas carbono-carbono terminais. Foram recuperados 1.127 pedidos de patente, publicados entre 2004 e 2014.
+
+3.1.4 Comissão de colas, adesivos e selantes
+Para recuperar os documentos de patente em tecnologias referentes a colas, adesivos e selantes utilizou-se a CIP C09J, que abrange: adesivos, aspectos não mecânicos de processos adesivos em geral, processos adesivos não incluídos em
+
+INPI/DICOD/CEDIN/COPIP/OBTEC | Uso estratégico da informação tecnológica de patentes 18 na indústria química
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira outro local e uso de materiais como adesivos. Foram encontrados 36.425 pedidos de patente, publicados entre 2004 e 2014. Confrontando as principais classificações dos pedidos de patente das empresas da comissão setorial com as dos pedidos de patente publicados no mundo sobre colas, adesivos e selantes (quadro 3), observa-se que o polímero presente em maior número de pedidos são os poliuretanos (C09J 175/04) e, portanto, esta classificação foi selecionada para os exemplos do estudo, totalizando 3.248 documentos de patente.
+INPI/DICOD/CEDIN/COPIP/OBTEC | Uso estratégico da informação tecnológica de patentes 19 na indústria química
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+
+Quadro 3: Distribuição das principais classificações dos pedidos de patente em adesivos
+
+CIP
+C09J 7/02 C09J 11/06 C09J 175/04 C08G 18/00 C09J 11/02 C09J 201/00
+B32B 7/12
+C09J 11/00 C09J 163/00 C09K 3/10
+
+Descrição da CIP
+Materiais adesivos em forma de películas ou folhas em suportes
+Características de adesivo não abrangidas no grupo C09J 9/00, p. ex., aditivos à · Aditivos não-macromoleculares orgânicos
+Adesivos à base de poliureias ou poliuretanas; Adesivos à base de derivados de tais polímeros Poliuretanas
+Produtos poliméricos de isocianatos ou isotiocianatos
+Características de adesivos não abrangidas no grupo C09J 9/00 - Aditivos não-macromoleculares
+Adesivos à base de compostos macromoleculares não-especificados
+Produtos em camadas caracterizados pela relação entre as camadas, i.e. produtos constituídos essencialmente por camadas de propriedades físicas diferentes ou produtos caracterizados pela interligação das camadas caracterizados pela ligação entre as camadas· · usando um adesivo
+Características de adesivos não abrangidas no grupo C09J 9/00, p. ex., aditivos
+Adesivos à base de resinas epóxi; Adesivos à base de derivados de resinas epóxi
+Matérias diversas não incluídas em outro local à· para vedação ou empanque de juntas ou tampas
+
+Distribuição percentual dos documentos das empresas que
+compõem a comissão
+27% 19%
+19%
+16% 14% 13%
+12%
+12%
+12%
+11%
+
+Distribuição percentual
+dos documentos
+no mundo 36% 17%
+9%
+3% 12% 15%
+6%
+7%
+12%
+11%
+
+Fonte: Elaboração própria.
+
+INPI/DICOD/CEDIN/COPIP/OBTEC | Uso estratégico da informação tecnológica de patentes 20 na indústria química
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+
+3.1.5 Comissão de insumos para borracha
+Para selecionar os pedidos de patente com tecnologias referentes a insumos para borracha foram utilizadas as classificações de patente C08L 9 (látex), C08L 11 (composições de homopolímeros ou copolímeros de cloropreno), C09L 13 (composições de borracha que contém grupos carboxílicos), C08L 15 (composições de derivados de borracha) e C08L 17 (composições de borracha não previstas nos grupos anteriores), totalizando 9.914 pedidos de patente publicados entre 2004 e 2014.
+
+3.1.6 Comissão de corantes e pigmentos
+A seleção dos documentos de patente referentes a insumos para corantes e pigmentos foi feita empregando-se as classificações de patente C09B (corantes orgânicos ou compostos estreitamente relacionados para produzir corantes, mordentes, lacas), C09C (tratamento de materiais inorgânicos para melhorar suas propriedades de pigmentação), C09D (composições de revestimento), C09F (resinas naturais, óleos secantes, terebintina) e C09K (substâncias não previstas nos grupos anteriores).
+
+Quadro 4: Distribuição das principais classificações dos pedidos de patente em adesivos
+
+CIP
+C09D 7/12 C09D 175/04
+
+Descrição
+
+Distribuição percentual dos
+documentos das empresas que compõem a
+comissão
+
+Distribuição percentual
+dos documentos
+no mundo
+
+Características de composições de revestimento não abrangidas no grupo: outros aditivos
+
+15%
+
+15%
+
+Composições de revestimento à base de poliuretanas; Composições de revestimento à base de derivados de tais polímeros
+
+9%
+
+4%
+
+C09D 11/00 Tintas
+
+8% 7%
+
+C09K 3/00 Matérias diversas não incluídas em outro local
+
+8% 5%
+
+C09K 11/06
+
+Matérias luminescentes contendo matérias orgânicas luminescentes
+
+7%
+
+7%
+
+INPI/DICOD/CEDIN/COPIP/OBTEC | Uso estratégico da informação tecnológica de patentes 21 na indústria química
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+
+C08K 5/00 C09D 5/00
+H01L 51/50 C09D 201/00
+
+Uso de substâncias orgânicas não-macromoleculares como ingredientes de composições
+Composições de revestimento, p. ex., tintas, vernizes ou lacas, caracterizadas por sua natureza física ou efeitos produzidos; Pastas de enchimento
+Dispositivos de estado sólido usando materiais orgânicos como parte ativa ou usando uma combinação de materiais orgânicos com outros materiais como parte ativa; Processos ou aparelhos especialmente adaptados para a fabricação ou tratamento de tais dispositivos, ou de suas partes integrantes: especialmente adaptados para emissão de luz
+Composições de revestimento à base de compostos macromoleculares não-especificados
+
+C08G 18/00 Produtos poliméricos de isocianatos ou isotiocianatos
+
+7% 6%
+6%
+5% 5%
+
+2% 5%
+4%
+3% 1%
+
+Fonte: Elaboração própria.
+
+Diante do grande volume de documentos de patente encontrados, fez-se a opção metodológica de restringir a amostra para os documentos classificados em C09D 7/12, que trata de características de composições de revestimentos com outros aditivos, representando cerca de 15% do total da amostra.
+
+3.2 Identificação de atores
+Em cada um dos estudos desenvolvidos com as seis comissões setoriais da Abiquim, foram mapeadas as competências envolvidas no desenvolvimento das tecnologias para as quais foi pedida proteção por patentes. Este mapeamento é feito a partir da identificação dos depositantes das patentes selecionados na amostra. De uma forma simplificada, o ranking dos principais depositantes de patente em um setor pode ser um indicador daqueles com maior grau de desenvolvimento tecnológico na área. Na maioria dos setores, as empresas membros das comissões setoriais da Abiquim são responsáveis por apenas 10% dos pedidos de patente (quadro 5). O único setor em que as empresas membros
+
+INPI/DICOD/CEDIN/COPIP/OBTEC | Uso estratégico da informação tecnológica de patentes 22 na indústria química
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+
+da comissão setorial da Abiquim têm representatividade maior é o de poliésteres insaturados, com 23% dos pedidos de patente da amostra recuperada.
+
+Quadro 5 – Pedidos de patente das instituições (ou subsidiárias) membro das comissões setoriais da Abiquim
+
+Classificação escolhida como exemplo
+
+Período de busca
+
+Comisssão setorial de produtos químicos para couro
+
+C14C
+
+Comisssão setorial de silicones
+Comisssão setorial de poliester insaturado Comisssão setorial de colas, adesivos e selantes Comisssão setorial de insumos para borracha Comisssão setorial de corantes e pigmentos
+
+C08G 77/04 A C08G 77/398
+C08L 67/06 E C08L 67/07
+C09J (C08L 9, C08L 11, C09L 13,
+C08L 15, C08L 17) C09D 07/12
+
+2004-2014
+2004-2015 2004-2016 2004-2017 2004-2018 2009-2014
+
+Número de patentes no mundo (%)
+1878
+6557
+1127
+36425
+9914
+95294 Média
+
+Número de patentes de membor das comissões
+ou subsidiárias
+159 (9%)
+816 (12%)
+286 (23%)
+2198 (6%)
+215 (2%)
+2223 (2%) 9%
+
+Fonte: Elaboração própria.
+
+3.3 Tendências tecnológicas
+Analisar o conteúdo tecnológico dos pedidos de patente dos principais depositantes em um setor permite inferir sobre as tendências tecnológicas no referido setor, bem como identificar as ciências de base envolvidas, as áreas principais de aplicação das tecnologias desenvolvidas de áreas com as quais o setor apresenta interface. Quando a tendência tecnológica é avaliada em escala temporal, é possível verificar também eventuais alterações na base tecnológica do setor (paradigma tecnológico) e o surgimento de novas aplicações para tecnologias já conhecidas.
+INPI/DICOD/CEDIN/COPIP/OBTEC | Uso estratégico da informação tecnológica de patentes 23 na indústria química
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+
+Em cada um dos estudos desenvolvidos com as comissões setoriais da Abiquim, foram identificadas as áreas do conhecimento presente em cada um dos setores e a eventual existência de interface entre diferentes áreas (quadro 6).
+
+Quadro 6 - Área do conhecimento dos pedidos de patente em cada um dos setores analisados
+
+Principais áreas
+Química Ciência de polímeros Engenharia Intrumentos e instrumentaçã
+o Ciência dos materiais Ciência de imagem & tecnologia fotográfica Energia e combustíveis Transporte
+Ótica Medicina interna e geral Tecnologia de construção e edificação Agricultura
+
+Couro Número
+de Percentual pedidos
+369 99,2% 222 59,7% 30 8,0%
+65 17,5%
+137 36,8%
+60 16,1%
+5 1,3% 10 2,7% __ 4 1,1%
+__
+19 5,1%
+
+Silicone
+
+Número
+
+de Percentual
+
+pedidos
+
+6475
+
+99%
+
+6309
+
+96%
+
+3291 50%
+
+2873 44%
+
+1625 25%
+
+2663 41%
+
+381 6% 466 7% 421 6% __
+__
+
+Poliester Insaturado
+
+Número
+
+de Percentual
+
+pedidos
+
+1117
+
+99%
+
+1108
+
+98%
+
+421 37%
+
+345 30%
+
+237 21%
+
+288 25%
+
+68 6% 161 14% 14 1% 16 1%
+41 3%
+
+Poliuretanos
+
+Insumos para borracha Corante e pigmentos
+
+Número
+
+Número
+
+Número de
+
+de Percentual de Percentual pedidos Percentual
+
+pedidos
+
+pedidos
+
+3228 99,4% 9828
+
+99%
+
+14.278 97,1%
+
+3200 98,5% 9784
+
+99%
+
+12.733 86,6%
+
+1276 39,3% 6310
+
+64%
+
+4.604
+
+31.3%
+
+1473 45,3% 2105
+
+21%
+
+4.715
+
+32.1%
+
+757 23,3% 975
+
+10%
+
+10.129
+
+68,9%
+
+2917 89,8% 1107 11% 13.487 91,7%
+
+125 3,8% 619
+
+6%
+
+732 5,0%
+
+312
+
+9,6%
+
+5184
+
+52%
+
+722
+
+4,9%
+
+231 7,1%
+
+484 3,3%
+
+55 1,7% 85
+
+1%
+
+98 0,7%
+
+81
+
+2,5%
+
+158
+
+2%
+
+530 3,6% 186 1,3%
+
+Biotecnologia e
+
+microbiologia
+
+8
+
+2,2%
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+aplicada
+
+Fonte: Elaboração própria.
+
+Nota: Ressalta-se que um documento de patente pode estar classificado em mais de uma área e, por isso, não se espera que a soma dos percentuais resulte em 100%.
+
+INPI/DICOD/CEDIN/COPIP/OBTEC | Uso estratégico da informação tecnológica de patentes 24 na indústria química
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+
+Analisando-se os resultados apresentados no quadro , a base da tecnologia para os temas analisados é a química e a ciência de polímeros (áreas diretamente ligadas a tecnologias de produto e processo). Contudo, verificam-se outras áreas de conhecimento que tem interface com estas tecnologias. A área de biotecnologia pode sugerir rotas tecnológicas alternativas. As demais áreas são relativas a aplicações para o setor tecnológico estudado, como, por exemplo, o uso de silicones na ciência de imagem e em fotografia.
+
+Por interesse de 4 das 6 comissões setoriais da Abiquim (com exceção das comissões de produtos químicos para couro e silicone), foram selecionados, a partir das amostras de documentos de patente de cada um dos setores, aqueles relativos à construção civil, em função do crescimento nas vendas de produto para esse mercado. A seleção foi feita a partir da classificação internacional de patentes E (Construções Fixas). O quadro mostra a quantidade de pedidos de patente de aplicação na construção civil em cada um dos setores analisados.
+
+Quadro 7 - Número de documentos de patente em construção civil para cada um dos setores estudados
+
+Comissão Setorial Adesivo
+Corantes e pigmentos Borracha
+Poliésteres insaturados
+
+Número de documentos de patente 103 613 203 53
+
+Fonte: Elaboração própria.
+
+O
+
+INPI/DICOD/CEDIN/COPIP/OBTEC | Uso estratégico da informação tecnológica de patentes 25 na indústria química
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira quadro traz um detalhamento dos setores da construção civil ao qual se aplicam as tecnologias descritas nos documentos de patente estudados no âmbito de cada uma das comissões setoriais da Abiquim.
+INPI/DICOD/CEDIN/COPIP/OBTEC | Uso estratégico da informação tecnológica de patentes 26 na indústria química
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+
+Quadro 8 – Setores da construção civil de aplicação das tecnologias descritas nos documentos de patente analisados
+
+Principais Usos
+Acabamentos
+Isolamento (térmico, acústico) ou proteção de edificações; Estrutura geral
+Telhados
+Estradas, praças ou similares
+Portas, janelas, etc. (fechamentos fixos ou móveis)
+Obras complementares (ex: heliportos, sinais)
+Estruturas para fins especiais (piscinas, tendas, abrigos, etc.)
+Elementos Estruturais (ex: paredes, lajes); Materiais de construção
+Pontes ou viadutos
+Acessórios de construção (andaimes, armações, etc.)
+Fundações, aterros; Estruturas subterrâneas ou subaquáticas Ferramentas para vias permanentes e
+máquinas para ferrovias Perfuração do solo ou rocha; Obtenção de óleo, gás, água, materiais solúveis ou fundíveis ou lama de minerais de poços
+Engenharia hidráulica
+Poços, túneis ou galerias subterrâneas
+Privadas ou mictórios com dispositivos de descarga; Válvulas de descargas para os mesmos
+
+Adesivos de poliuretanos
+37 16 16 11 14 2
+7 2 5 3 3
+2
+
+Corantes e pigmentos
+284 104 59 61 26 41 31 11 16 11
+8
+12
+9
+
+Borracha 62
+
+Poliésteres Insaturados
+7
+
+43 3
+
+30 16 3
+
+24 4
+
+5
+
+5
+
+16 86 14
+
+95
+
+12 5
+
+5
+
+5 4
+
+Fonte: Elaboração própria.
+
+A análise preliminar por setores e aplicações permite criar critérios para seleção de conjuntos específicos de documentos de patente, que podem ser analisados qualitativamente com maior profundidade, a fim de mapear em detalhes as tecnologias do setor.
+
+INPI/DICOD/CEDIN/COPIP/OBTEC | Uso estratégico da informação tecnológica de patentes 27 na indústria química
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+
+3.4 Liberdade de operação
+Sobre a liberdade de operação, grande parte dos pedidos de patente recuperados não foi depositada no Brasil, explicando grande janela de oportunidade para exploração de tecnologias no território brasileiro, sem infringir direitos de terceiros.
+O quadro 9 apresenta, em valor percentual, a liberdade de operação tecnológica no Brasil em um dos setores estudados.
+
+Quadro 9 – Percentual de tecnologias livres para exploração no Brasil
+
+Classificação de patentes para recuperação dos Período de busca documentos
+
+Comisssão setorial de produtos químicos para couro
+
+C14C
+
+2004-2014
+
+Comisssão setorial de silicones
+Comisssão setorial de poliester insaturado Comisssão setorial de colas, adesivos e selantes Comisssão setorial de insumos para borracha Comisssão setorial de corantes e pigmentos
+
+C08G 77/04 A C08G 77/398
+C08L 67/06 E C08L 67/07
+C09J (C08L 9, C08L 11, C09L 13,
+C08L 15, C08L 17) C09D 07/12
+
+2004-2015 2004-2016 2004-2017 2004-2018 2009-2014
+
+Número de patentes no mundo (%)
+372
+6557
+1127
+3248
+203
+14705 Média
+
+Expectativa de direito ou Não tecnologia protegida Protegido
+28% 72%
+28% 72% 24% 76% 23% 77% 20% 80% 20% 80% 28% 77%
+
+Fonte: Elaboração própria. 5
+
+5Vale a ressalva de que esse resultado tinha como objetivo apenas mostrar possibilidades de usos da informação tecnológica contida em documentos de patente, tratando-se apenas de um exercício. Assim, caso haja o interesse de se verificar a liberdade de operação de
+determinada tecnologia, deve-se ser mais exaustivo na busca, bem como verificar a situação mais atualizada dos pedidos de patente.
+INPI/DICOD/CEDIN/COPIP/OBTEC | Uso estratégico da informação tecnológica de patentes 28 na indústria química
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+4 Considerações finais
+O Brasil apresenta grande potencial para indústria química no que diz respeito à disponibilidade de matéria-prima. O País dispõe de grande quantidade de recursos minerais e, em poucos anos, deve se posicionar entre os maiores produtores de petróleo do mundo. O Brasil é também o principal país na produção de combustíveis de fonte renovável.
+Entretanto, apesar da grande disponibilidade de riquezas naturais, o País ainda carece de capacidade tecnológica para agregar mais valor a produtos básicos, ditos commodities, passando a produzir, em território nacional, insumos químicos hoje importados de outros países. Isto reduziria significativamente o déficit na balança comercial do setor, promovendo geração e distribuição de riquezas dentro do País.
+É nesse cenário que se consolida a parceria entre o INPI e Abiquim, na qual o INPI contribui para que a Associação alcance sua missão de promover o aumento da competitividade e o desenvolvimento sustentável da indústria química instalada no País, a partir da promoção do uso estratégico da informação tecnológica de patentes.
+Isto posto, o objetivo deste estudo é o de mostrar de forma simplificada as oportunidades que o uso estratégico da informação tecnológica de patentes pode aportar aos distintos segmentos químico-industriais do País, mapeando, para os setores de Produtos químicos para couro, Silicones, Poliéster insaturado, Colas, adesivos e selantes, Insumos para borracha e Corantes e pigmentos, as competências mundiais e nacionais, as tendências tecnológicas e as tecnologias que estão livres para serem exploradas no Brasil sem infringir direitos de terceiros.
+INPI/DICOD/CEDIN/COPIP/OBTEC | Considerações finais 29
+
+Oportunidades Tecnológicas para a Indústria Química Brasileira
+5 Referências bibliográficas
+GRYNSZPAN, Flávio; PEREIRA, Maurício Guedes. A utilização da documentação de patentes como subsídio para pesquisas. Revista de Administração, v. 20. jul. set.1985, p. 22-26 ARUNDEL, Anthony; KABLA, Isabelle. What percentage of innovations are patented? empirical estimates for European firms. Research Policy v.27, 2008, p. 127-141. MARMOR, Alfred C. et al. The Technology Assessment and Forecast Program of the United States patent and Trademark Office – World Patent Information, 1 (1), p.15-23, 1979. OMPI, Pautas para la Planificacion y Organizacion de um Centro de Informacion y Documentacion sobre Patentes em um País em Desarrollo – OMPI/PCPI/GEN/1, Genebra, 1980. INPI, Informação Tecnológica: Guia para Empresas e Instituições. 2001. Australian Patent Office. Pilot Study of the users of the patent information and their needs. Camberra, 1980. UK Intellectual Property Office, 2007
+INPI/DICOD/CEDIN/COPIP/OBTEC | Referências bibliográficas 30
+

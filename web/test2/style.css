@@ -1,0 +1,101 @@
+body{
+    background-image: url("3ad825fa000c3a6c7037e981472d4b1a.gif");
+    background-repeat: repeat-x;/*posção horizontal*/
+    background-position: end;
+    background-attachment: fixed;/*se rolar a barra ela fica ficxa 'scroll' rola normal*/
+}
+#parte1{
+    text-align: center;/*local do texto*/
+}
+h1{
+    background-color: blue;
+    opacity: 0.5;
+    width: 400px; /*abertura*/
+    margin: auto;/*centraliza automaticamente*/
+    box-sizing: border-box;/*box-sizingpropriedade. Isso faz com que o elemento mantenha sua largura;*/
+}
+h2{
+    /*borda*/
+    border-style: double;
+    border-width: 25px 10px 4px 35px;/*25px superior, 10px à direita, 4px inferior e 35px à esquerda*/
+    border-color: red green blue yellow;/*vermelho superior, verde direito, azul inferior e amarelo esquerdo*/
+}
+h3{
+    border-top-style: dotted;/*controle da borda*/
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+    margin: 25px 50px 75px 100px;
+}
+h4{
+    border-left: 5px solid red;
+    background-color: lightgrey;/*apaga e deixa o vermelhona esquerda*/
+}
+h5{
+    border: 6px solid blue;
+    border-radius: 6px;/*arendodar pontas*/
+    margin-top: 10px;/*margem para distanciar da borda*/
+    margin-right: 10px; 
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+h6{
+    background-color: chartreuse;
+    padding-top: 20px;/*abertura para os lados desjádos*/
+    padding-right: 40px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+}
+/*
+body {
+  background: #ffffff url("img_tree.png") no-repeat right top;
+}
+para abreviar tudo
+
+---------------bordas border-style
+
+dotted - Define uma borda pontilhada
+dashed - Define uma borda tracejada
+solid - Define uma borda sólida
+double - Define uma borda dupla
+groove- Define uma borda com sulcos 3D. O efeito depende do valor da cor da borda
+ridge- Define uma borda estriada 3D. O efeito depende do valor da cor da borda
+inset- Define uma borda de inserção 3D. O efeito depende do valor da cor da borda
+outset- Define uma borda de início 3D. O efeito depende do valor da cor da borda
+none - Não define nenhuma fronteira
+hidden - Define uma borda oculta
+
+border:                Define todas as propriedades da borda em uma declaração
+border-bottom:         Define todas as propriedades da borda inferior em uma declaração
+border-bottom-color:   Define a cor da borda inferior
+border-bottom-style:   Define o estilo da borda inferior
+border-bottom-width:   Define a largura da borda inferior
+border-color:          Define a cor das quatro bordas
+border-left:           Define todas as propriedades da borda esquerda em uma declaração
+border-left-color:     Define a cor da borda esquerda
+border-left-style:     Define o estilo da borda esquerda
+border-left-width:     Define a largura da borda esquerda
+border-radius:         Define todas as quatro propriedades border - * - radius para cantos arredondados
+border-right:          Define todas as propriedades da borda direita em uma declaração
+border-right-color:    Define a cor da borda direita
+border-right-style:    Define o estilo da borda direita
+border-right-width:    Define a largura da borda direita
+border-style:          Define o estilo das quatro bordas
+border-top:            Define todas as propriedades da borda superior em uma declaração
+border-top-color:      Define a cor da borda superior
+border-top-style:      Define o estilo da borda superior
+border-top-width:      Define a largura da borda superior
+border-width:          Define a largura das quatro bordas
+
+------------------------altura e largura
+
+Valores de altura e largura CSS
+As propriedades heighte widthpodem ter os seguintes valores:
+
+auto- Este é o padrão. O navegador calcula a altura e largura
+length - Define a altura / largura em px, cm etc.
+% - Define a altura / largura em porcentagem do bloco que contém
+initial - Define a altura / largura para seu valor padrão
+inherit - A altura / largura será herdada de seu valor pai
+
+*/

@@ -1,0 +1,12 @@
+*{
+    color: rgb(43, 43, 233);
+}
+/*parte onde coloca os dados*/
+#parte1{
+    text-align: center;
+}
+div.parte2 {
+    text-align: center;
+    background-color: black;
+    opacity: 0.3;
+}

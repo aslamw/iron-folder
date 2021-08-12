@@ -1,0 +1,767 @@
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+Rio de Janeiro Outubro / 2015
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+Instituto Nacional da Propriedade Industrial - INPI Presidente: Luiz Otávio Pimentel Vice-presidente: Mauro Sodré Maia
+Diretoria de Cooperação para o Desenvolvimento - Dicod Diretora: Denise Nogueira Gregory
+Centro de Disseminação da Informação Tecnológica - Cedin Coordenador-Geral: Luiz Gomes Ribeiro Filho
+Coordenação de Pesquisa em Inovação e Propriedade Intelectual - Copip Coordenadora: Rafaela Di Sabato Guerrante
+Divisão do Observatório Tecnológico - OBTEC Chefe de Divisão: Alexandre Lopes Lourenço
+Autor Cristina d’Urso de Souza Mendes Colaboradores Bernardo Furtado Nunes Denise Neves Menchero Palácio Rafaela Di Sabato Guerrante
+Ficha catalográfica elaborada pela Biblioteca Economista Cláudio Treiguer – INPI
+M538r Mendes, Cristina d’Urso de Souza. Uso estratégico da informação tecnológica de patentes: estudo setorial do uso
+de silicones em cabos elétricos resistentes à chama / Cristina d’Urso de Souza Mendes; Colaboração: Denise Neves Menchero Palácio, Bernardo Furtado Nunes, Rafaela Di Sabato Guerrante. Rio de Janeiro: Instituto Nacional da Propriedade Industrial – INPI, Diretoria de Cooperação para o Desenvolvimento – DICOD, Centro de Disseminação da Informação Tecnológica – CEDIN, Coordenação de Pesquisa em Inovação e Propriedade Intelectual – COPIP, Divisão do Observatório Tecnológico – OBTEC.
+38 fls.; il.; tabs.- Estudos Setoriais 1. Patente – Indústria química. Patente – Silicone. Informação Tecnológica 0Patente. I. Instituto Nacional da Propriedade Industrial (Brasil). II. Palácio, Denise Neves Menchero (Colab.). III. Nunes, Bernardo Furtado (Colab.). IV. Guerrante, Rafaela Di Sabato (Colab.). V. Título.
+CDU: 347.771:678.84 (81)
+INPI/DICOD/CEDIN/COPIP/OBTEC 2
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+Sumário
+1 Introdução ........................................................................................................ 6 2 Primeira etapa: pedidos de patente de silicone e uso estratégico dessa informação............................................................................................................... 7
+2.1 Levantamento de documentos de patente de silicone .................................. 7 2.2 Análise geral dos pedidos de patente de silicone ......................................... 8 2.3 Identificação de atores................................................................................... 10 2.4 Tendência Tecnológica.................................................................................. 13 2.5 Liberdade de operação .................................................................................. 17 3 Segunda etapa: pedidos de patente de cabos elétricos revestidos de silicone resistentes à chama .............................................................................................. 19 3.1 Busca de documentos de patente de silicone para cabos elétricos resistentes a chama................................................................................................... 19 3.2 Resultados: análise dos pedidos de patente de cabos elétricos resistentes à chama, contendo silicone ...................................................................................... 25
+3.2.1 Análise dos pedidos de patente de material para o cabo .................. 25 3.2.2 Patentes de cabos em si ................................................................... 31 4 Conclusões .................................................................................................... 34 5 Anexo 1: Classificação Internacional de Patente referente a silicones .......... 36
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+Lista de gráficos, tabelas e figuras
+Tabela 1: Ranking de classificações dos documentos de patente das empresas da comissão em relação ao total de documentos de patente no mundo...................... 8 Tabela 2: Ranking dos principais depositantes de pedidos de patente de silicones (não pertencentes à comissão setorial da Abiquim).............................................. 11 Figura 1: Exemplo de documento de patente depositado nos Estados Unidos pela empresa Shin-Etsu Chemical ................................................................................ 12 Figura 2: Exemplo de documento de patente depositado no Brasil pela Usiminas13 Tabela 3: Áreas de aplicação dos pedidos de patente de silicone ........................ 14 Tabela 4: Ranking das classificações dos documentos de patente de silicone (2004-2014)........................................................................................................... 14 Figura 3: Exemplo de documento de patente de composições de silicone para semicondutores ..................................................................................................... 16 Figura 4: Liberdade de operação das tecnologias dos pedidos de patente de silicone .................................................................................................................. 17 Figura 5: Exemplo de pedido de patente de silicone depositado nos Estados Unidos e não depositado no Brasil........................................................................ 18 Figura 6: Estrutura hierárquica da classificação de patentes para cabos resistentes à chama (H01 7/29 e H01 7/ 295) ......................................................................... 20 Figura 7: Estrutura hierárquica da classificação de patentes de cabos resistentes à chama (A62C 3/16) ............................................................................................... 20 Tabela 5: Classificações utilizadas para selecionar os pedidos de patente de silicone no conjunto de documentos sobre cabos elétricos resitentes à chama.... 21 Figura 8: Esquema de busca de documentos de patente de cabos elétricos resitentes a chama, contendo silicones................................................................. 23 Figura 9: Máscara de leitura de documentos de patente de cabos elétricos de silicone .................................................................................................................. 24 Tabela 6: País de prioridade dos documentos de patente de material para fazer cabos resiStentes à chama utilizando silicone ...................................................... 26 Tabela 7: Relação entre país de prioridade x país de depósito dos pedidos de patente de material de cabos elétricos resistentes a chama e calor ..................... 27 Tabela 8: Principais depositantes de pedidos de patente de silicone para cabos elétricos resistentes à chama ................................................................................ 28 Tabela 9: Papel do silicone nas composições utilizadas no revestimento ou manufatura de cabos elétricos .............................................................................. 29
+INPI/DICOD/CEDIN/COPIP/OBTEC | Lista de gráficos, tabelas e figuras 4
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+Tabela 10: Principais tipos de silicone empregados em composições para manufatura de cabos elétricos resistentes à chama ............................................. 30 Tabela 11: aplicação final dos pedidos de patente de material para cabos elétricos resistentes à chama .............................................................................................. 31 Tabela 12: Pólos de geração das tecnologias de fabricação de cabos elétricos resistentes à chama .............................................................................................. 32 Tabela 13: Tipo de silicone descritos nos documentos de patente referentes a cabos elétricos resistentes à chama ..................................................................... 32
+INPI/DICOD/CEDIN/COPIP/OBTEC | Lista de gráficos, tabelas e figuras 5
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+1 Introdução
+O presente relatório apresenta os resultados do trabalho desenvolvido no âmbito do acordo de cooperação entre a Associação Brasileira da Indústria Química (ABIQUIM) e o INPI, para a comissão setorial de silicones desta associação.
+O trabalho desenvolvido nesta comissão foi dividido em duas etapas: uma etapa de sensibilização e outra de apresentação de resultados do estudo setorial com tema de interesse da comissão.
+A primeira etapa teve como objetivo a sensibilização das empresas que pertencem à comissão quanto à importância do uso estratégico da informação tecnológica contida em documentos de patente. Para tanto, foi feito um levantamento preliminar dos pedidos de patente de silicone a partir do qual foram elaboradas estatísticas com a finalidade de exemplificar os diferentes tipos de estudos que podem ser desenvolvidos, como de tendências tecnológicas, identificação de atores e liberdade de operação.
+A pedido da comissão, a segunda etapa consistiu em traçar, a partir de patentes, as tendências tecnológicas no uso de silicone em cabos e fios resistentes à chama. O tema foi escolhido em função do projeto elaborado na comissão sobre mercado e tendências na área de fios e cabos elétricos (energia, telecomunicações, controle e aplicações especiais), visando subsidiar ações futuras da Abiquim e estratégias de participação efetiva da associação no processo de normatização, considerando o uso de silicone como material de isolamento e cobertura desses produtos.
+A seguir, são apresentados os resultados das duas etapas do trabalho.
+INPI/DICOD/CEDIN/COPIP/OBTEC | Introdução 6
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+2 Primeira etapa: pedidos de patente de silicone e uso estratégico dessa informação
+Esta etapa é dividida em duas partes, a primeira mostra a estratégia de recuperação de pedidos de patente de silicone em bases de dados, fazendo uso da Classificação Internacional de Patentes (CIP)1. A segunda parte descreve a compilação destes dados de forma a exemplificar o uso estratégico das informações contidas em documentos de patente, com destaque para os estudos de identificação de atores, tendências tecnológicas e de liberdade de operação.
+2.1 Levantamento de documentos de patente de silicone
+A busca dos documentos de patente sobre silicone foi feita em diversas bases de patente, a partir da identificação dos códigos da Classificação Internacional de Patentes para tecnologias relacionadas a silicones2, considerando os pedidos de patente publicados no mundo entre 2004 e 2014.
+Foram identificados diversos códigos da Classificação Internacional de Patentes específicos para silicones (Anexo I),que se dividem em:
+ Classificações de processo: referentes ao processo de fabricação do polímero de silicone (síntese): C08G 77/06, C08G 77/08, C08G 77/10, C08G 77/32, C08G 77/34 e C08G 77/36.
+ Classificações de produto: sobre características químicas dos silicones (características do polímero): C08G 77/14, C08G 77/16, C08G 77/18, C08G 77/20, C08G 77/22, C08G 77/24, C08G 77/26, C08G 77/28, C08G 77/30, C08G 77/38, C08G 77/382, C08G 77/385, C08G 77/388, C08G 77/392, C08G 77/395, C08G 77/398.
+1 A Classificação Internacional de Patentes pode ser contemplada no site http://ipc.inpi.gov.br/ 2 O site do INPI (http://www.inpi.gov.br/menu-servicos/informacao/guia-pratico-para-buscas-depatentes) apresenta tutoriais de busca de patente que ensinam a classificar e recuperar patentes de qualquer tipo de tecnologia em bases gratuitas disponíveis na internet.
+INPI/DICOD/CEDIN/COPIP/OBTEC | Primeira etapa: pedidos de patente de silicone e uso estratégico dessa 7
+informação
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+
+ Classificações de composição: abrange composições contendo silicone (C08L 83/04, C08L 83/05, C08L 83/06, C08L 83/07, C08L 83/08, C08L 83/10, C08L 83/12, C08L 83/14, C08L 83/16).
+ Classificações específicas de aplicação: descrevem aplicações específicas do silicone (A61K 8/89, C08F 283/12, C08F 299/08, C08G).
+
+Para desenvolvimento preliminar do estudo, foram utilizadas as classificações de química C08G77/04 a C08G77/398, referentes ao silicone em si (produto químico). Foram recuperados 6.557 pedidos de patente, dos quais 816 (12%) correspondem a pedidos de patente de empresas-membro da comissão setorial de silicones da Abiquim ou de outras unidades de negócio do mesmo grupo.
+
+2.2 Análise geral dos pedidos de patente de silicone
+O ranking de classificações (tabela 1) permite visualizar áreas de destaque sobre silicones. A comparação entre o ranking para as empresas da comissão setorial e o ranking de todos os documentos de patentes publicados no mundo sobre o assunto permite observar as semelhanças e diferenças do desenvolvimento tecnológico em silicones feito pelas empresas da comissão em relação ao de outras instituições no mundo.
+
+Tabela 1: Ranking de classificações dos documentos de patente das empresas da comissão em relação ao total de documentos de patente no mundo
+
+Código da Classificação Internacional de Patentes
+
+Descrição
+
+C08G-077/00 C08L-083/04 C08L-083/00
+
+Compostos macromoleculares obtidos por reações formando na cadeia principal da macromolécula uma ligação contendo silício, com ou sem enxofre, nitrogênio, oxigênio ou carbono
+Composições...->> Polissiloxanas
+Composições de compostos macromoleculares obtidos por reações formando na cadeia principal da macromolécula uma ligação contendo silício com ou sem enxofre, nitrogênio, oxigênio ou carbono apenas; Composições
+
+% Comissão 63% 51% 45%
+
+% Mundo 53% 25% 24%
+
+INPI/DICOD/CEDIN/COPIP/OBTEC | Primeira etapa: pedidos de patente de silicone e uso estratégico dessa 8
+informação
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+
+Código da Classificação Internacional de Patentes
+
+Descrição
+
+contendo derivados desses polímeros
+
+% Comissão
+
+C08G-077/04 C08G-077/06 C08K-005/00 C08L-083/07
+C08G-077/38
+C08L-083/05
+
+Compostos macromoleculares obtidos por reações formando na cadeia principal da macromolécula uma ligação contendo silício, com ou sem enxofre, nitrogênio, oxigênio ou carbono->> Polissiloxanas
+Compostos macromoleculares obtidos por reações formando na cadeia principal da macromolécula uma ligação contendo silício, com ou sem enxofre, nitrogênio, oxigênio ou carbono->> Polissiloxanas ->> Processos de preparação Uso de substâncias inorgânicas ou orgânicas não-macromoleculares como ingredientes de composições --> Uso de ingredientes orgânicos
+Composições de compostos macromoleculares obtidos por reações formando na cadeia principal da macromolécula uma ligação contendo silício com ou sem enxofre, nitrogênio, oxigênio ou carbono apenas; Composições contendo derivados desses polímeros [2]->> Polissiloxanas->> contendo silício ligado a grupos alifáticos insaturados
+Compostos macromoleculares obtidos por reações formando na cadeia principal da macromolécula uma ligação contendo silício, com ou sem enxofre, nitrogênio, oxigênio ou carbono->> Polissiloxanas ->> Polissiloxanas modificadas por póstratamento químico
+Composições de compostos macromoleculares obtidos por reações formando na cadeia principal da macromolécula uma ligação contendo silício com ou sem enxofre, nitrogênio, oxigênio ou carbono apenas; Composições contendo derivados desses polímeros ->>· Polissiloxanas ->>· · contendo silício ligado ao hidrogênio
+
+35% 23% 21% 19%
+18%
+18%
+
+% Mundo
+32% 19% 16% 9% 8% 10%
+
+INPI/DICOD/CEDIN/COPIP/OBTEC | Primeira etapa: pedidos de patente de silicone e uso estratégico dessa 9
+informação
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+
+Código da Classificação Internacional de Patentes
+
+Descrição
+
+C09D-183/04
+
+Composições de revestimento >>composições de revestimento à base de compostos macromoleculares obtidos por reações que formam na cadeia principal da macromolécula uma ligação contendo silício...>>..Polissiloxanas
+
+Fonte: Elaboração própria
+
+% Comissão 18%
+
+% Mundo 11%
+
+Observa-se que os pedidos de patente das empresas da comissão estão principalmente voltados para novas composições contendo silicones (51%). Em contrapartida, os pedidos de patente sobre o mesmo tema depositados no mundo, apesar de importantes, não apresentam tanto destaque.
+A seguir, são apresentados os tipos de estudos que podem ser desenvolvidos, utilizando-se informações contidas em documentos de patentes, a saber: identificação de atores, monitoramento tecnológico e liberdade de operação.
+2.3 Identificação de atores
+No processo administrativo de obtenção de uma patente são publicadas diversas informações sobre o pedido, que podem ser utilizadas para fins estatísticos diversos. Neste contexto, a informação dos depositantes, ou seja, o nome de pessoa física ou jurídica ao qual o pedido ou patente está vinculado3 informa quem desenvolve a tecnologia (no caso do primeira instituição que depositou) e quem tem interesse de desenvolver aquela invenção para que esta chegue ao mercado.
+
+3 Cada pedido ou patente poderá ter um ou mais depositantes vinculados a ele, e esse(s) depositante(s) pode(m)também ser o(s) inventor(es) do mesmo pedido.
+INPI/DICOD/CEDIN/COPIP/OBTEC | Primeira etapa: pedidos de patente de silicone e uso estratégico dessa 10
+informação
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+
+Para o presente trabalho, foram identificados 6.557 pedidos de patente, dos quais 816 são de empresas pertencentes à comissão setorial de silicones e 5.741 de outras instituições.
+O ranking preliminar4 dos principais depositantes em número de pedidos de patente mostra que estes são principalmente grandes empresas de química, sendo que a empresa Shin-Etsu Chemical Co. Ltd, do Japão, se destaca em número de documentos com mais de 10% da amostra.
+
+Tabela 2: Ranking dos principais depositantes de pedidos de patente de silicones (não pertencentes à comissão setorial da Abiquim)
+
+Principais Depositantes
+SHINETSU CHEM IND CO LTD SHINETSU CHEM CO LTD JSR CORP
+MOMENTIVE PERFORMANCE MATERIALS INC KANEKA CORP
+GENERAL ELECTRIC CO EVONIK GOLDSCHMIDT GMBH 3M INNOVATIVE PROPERTIES CO
+EVONIK DEGUSSA GMBH
+ASAHI KASEI KK
+NITTO DENKO CORP LG CHEM LTD
+SEKISUI CHEM IND CO LTD FUJI FILM CO LTD
+NISSAN CHEM IND LTD DEGUSSA AG
+GOLDSCHMIDT AG TH FUJI FILM CORP
+HITACHI CHEM CO LTD TORAY IND INC
+Fonte: Elaboração própria
+
+Número de pedidos de patente
+512 365 193 166
+135 131 93
+86
+82
+60
+55 52 51
+48
+48 46 46 45 44 44
+
+%
+9% 6% 3% 3% 2% 2% 2% 1% 1%
+1%
+1% 1% 1% 1% 1% 1% 1% 1% 1% 1%
+
+4 O ranking é preliminar, pois não foi elaborada a uniformização dos depositantes. Esta é uma etapa importante desse tipo de trabalho, dado que uma mesma empresa pode aparecer duas vezes no mesmo ranking em função da grafia de seu nome aparecer de formas diferentes (como é observado nas duas primeiras posições da tabela).
+INPI/DICOD/CEDIN/COPIP/OBTEC | Primeira etapa: pedidos de patente de silicone e uso estratégico dessa 11
+informação
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+Um exemplo de pedido de patente da Shin-Etsu Chemical Co., Ltd é o de número US2014/0024796, que descreve uma composição de resina de silicone curável (figura 1). A análise de todos os pedidos de patente de uma mesma instituição permite visualizar sua linha de P&D, informação esta que pode ser utilizada para estudos de inteligência competitiva, identificação de parcerias e fontes de licenciamento de tecnologia, entre outros. Figura 1: Exemplo de documento de patente depositado nos Estados Unidos
+pela empresa Shin-Etsu Chemical
+Um exemplo de pedido de patente de instituição brasileira é o PI 1003358-0 ( figura 2), depositado no Brasil pela USIMINAS, que se refere a um silicone de alta fluidez e resistência a temperaturas elevadas.
+INPI/DICOD/CEDIN/COPIP/OBTEC | Primeira etapa: pedidos de patente de silicone e uso estratégico dessa 12
+informação
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+Figura 2: Exemplo de documento de patente depositado no Brasil por instituição brasileira - Usiminas
+2.4 Tendência Tecnológica
+Para ilustrar o uso da informação de patentes para monitoramento tecnológico, os documentos de patente foram agrupados de acordo com sua área tecnológica (tabela 3). As áreas de química e ciência de polímeros, ligadas às patentes de processo e produto, se destacam. Este resultado era esperado, pois a busca para recuperação dos documentos de patente de silicone foi feita empregando-se classificações de produto e processo (C08G77/04 a C08G77/398). As outras áreas tecnológicas descritas na tabela 3 são os campos tecnológicos de aplicação dos silicones. Observa-se que o uso de silicones se encontra concentrado nos setores de engenharia e instrumentação. Esta análise pode ser utilizada para selecionar grupos de documentos para aprofundamento do estudo.
+INPI/DICOD/CEDIN/COPIP/OBTEC | Primeira etapa: pedidos de patente de silicone e uso estratégico dessa 13
+informação
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+
+Tabela 3: Áreas de aplicação dos pedidos de patente de silicone
+
+PRINCIPAIS ÁREAS
+QUÍMICA CIÊNCIA DE POLÍMEROS
+ENGENHARIA INTRUMENTOS E INSTRUMENTAÇÃO CIÊNCIA DE IMAGEM & TECNOLOGIA
+FOTOGRÁFICA CIÊNCIA DOS MATERIAIS
+TRANSPORTE ÓTICA
+ENERGIA & COMBUSTÍVEIS FARMACOLOGIA E FARMÁCIA Fonte: Elaboração própria
+
+NÚMERO DE DOCUMENTOS
+6.475 6.309 3.291 2.873
+2.663
+1.625 466 421 381 312
+
+%
+99% 96% 50% 44%
+41%
+25% 7% 6% 6% 5%
+
+Outra alternativa para selecionar grupos de documentos de patente com a finalidade de aprofundamento do estudo é por meio do ranking de classificações de patente (CIP), buscando separar patentes de processo, produto e aplicação, conforme apresentado na tabela 4.
+
+Tabela 4: Ranking das classificações dos documentos de patente de silicone (2004-2014)
+
+CLASSIFICAÇÃO INTERNACIONAL DE
+PATENTES C08G-077/00 C08G-077/04 C08L-083/04 C08L-083/00 C08G-077/14 C08G-077/38 C08G-077/20 C08G-077/06 C08L-083/07 C08L-083/06 C08L-083/05
+
+Tipo
+Produto/Processo Produto/Processo
+Composição Composição Produto/Processo Produto/Processo Produto/Processo Produto/Processo Produto/Processo Produto/Processo Produto/Processo
+
+Número de Documentos
+1739 1159 944 836 514 484 471 453 387 383 365
+
+%
+53% 35% 29% 25% 16% 15% 14% 14% 12% 12% 11%
+
+INPI/DICOD/CEDIN/COPIP/OBTEC | Primeira etapa: pedidos de patente de silicone e uso estratégico dessa 14
+informação
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+
+CLASSIFICAÇÃO INTERNACIONAL DE
+PATENTES H01l-021/02 H01l-023/29
+C08K-005/00
+C09d-183/04 C08G-077/26 G03F-007/075 C08G-077/12 C08G-077/08
+C08K-003/00
+C07F-007/00
+H01l-023/31 H01l-021/027 H01l-033/56 Fonte: Elaboração própria
+
+Tipo
+Aplicação Aplicação Composição (aditivo orgânico) Aplicação Produto/Processo Produto/Processo Produto/Processo
+Produto/Processo Composição (aditivo
+inorgânico) Monômero (composto acíclico
+ou heterocíclico contendo silício)
+Aplicação Aplicação
+Aplicação
+
+Número de Documentos
+363 357 347 346 305 298 287 286 266
+264
+261 259 232
+
+%
+11% 11% 11% 11% 9% 9% 9% 9% 8%
+8%
+8% 8% 7%
+
+As definições das classificações de aplicação são:
+
+ H01L 21/02 - Fabricação ou tratamento de dispositivos semicondutores ou de partes dos mesmos
+ H01L 21/027 - · Fabricação de máscaras sobre corpos semicondutores para tratamento fotolitográfico posterior, não previsto nos subgrupos H01L 21/18 ou H01L 21/34
+ H01L-023/29 - Detalhes de semicondutores ou outros dispositivos de estado sólido ->> Encapsulamento, p. ex., camadas de encapsulação, >> caracterizada pelo material
+ H01L-033/56 - Dispositivos semicondutores com pelo menos uma barreira de potencial ou barreira de superfície especialmente adaptados para a emissão de luz; >>· caracterizados pelos revestimentos, p. ex., camada de passivação ou revestimento anti-reflexo >> Encapsulamentos >> · · · Materiais, p. ex., epóxi ou resina de silicone
+ C09D-183/04 - composições de revestimento* ->> composições de revestimento à base de compostos macromoleculares obtidos por reações que formam, na cadeia principal da macromolécula, uma ligação contendo silício...->>..Polissiloxanas
+
+INPI/DICOD/CEDIN/COPIP/OBTEC | Primeira etapa: pedidos de patente de silicone e uso estratégico dessa 15
+informação
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+As classificações de aplicação, que aparecem entre as aplicações de maior destaque, são, principalmente, aquelas relacionadas a semicondutores. Das principais classificações de aplicação, a única não relacionada a semicondutores é a C09-183/04, que se refere a composições de revestimento (podendo ser tinta) utilizando silicones. A figura 3 apresenta o pedido de patente US 20130341671, depositado nos Estados Unidos, sobre uma composição de resina de silicone utilizada em semicondutores.
+Figura 3: Exemplo de documento de patente de composições de silicone para semicondutores
+INPI/DICOD/CEDIN/COPIP/OBTEC | Primeira etapa: pedidos de patente de silicone e uso estratégico dessa 16
+informação
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+2.5 Liberdade de operação
+Os estudos de liberdade de operação são elaborados a partir de análise das tecnologias que estão protegidas por patente em determinado território. No caso do Brasil, pode-se verificar se tecnologias desenvolvidas fora do país foram protegidas em território nacional, o que permite identificar tecnologias livres para exploração no país. Este tipo de estudo tem por objetivo verificar, por exemplo, se a tecnologia que será explorada por uma instituição no Brasil não está protegida no País, evitando litígios. Analisando-se os 5.741 pedidos de patente de empresas que não fazem parte da comissão, observa-se, na figura 4, que 4.155 pedidos não foram depositados no País, ou seja, seus conteúdos tecnológicos estão livres para serem explorados no Brasil. Figura 4: Liberdade de operação das tecnologias dos pedidos de patente de
+silicone
+Tecnologias livres para exploração no Brasil Tecnologias para as quais há proteção no País
+Fonte: Elaboração própria
+Um exemplo de pedido de patente depositado nos Estados Unidos e não depositado no Brasil é o US8674049, que trata de polímeros para esmalte de unha. Este é um exemplo de tecnologia que pode ser livremente explorada no Brasil.
+INPI/DICOD/CEDIN/COPIP/OBTEC | Primeira etapa: pedidos de patente de silicone e uso estratégico dessa 17
+informação
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+Figura 5: Exemplo de pedido de patente de silicone depositado nos Estados Unidos e não depositado no Brasil
+INPI/DICOD/CEDIN/COPIP/OBTEC | Primeira etapa: pedidos de patente de silicone e uso estratégico dessa 18
+informação
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+3 Segunda etapa: pedidos de patente de cabos elétricos revestidos de silicone resistentes à chama
+Para o aprofundamento do presente trabalho, a comissão setorial de silicones definiu como tema prioritário o uso de silicones em cabos elétricos resistentes à chama. O foco escolhido foi em razão da existência de um projeto, em andamento na referida comissão, visando subsidiar ações futuras da Abiquim e estratégias de participação efetiva no processo de normatização do setor, considerando o uso de silicone como material de isolamento e/ou cobertura de cabos elétricos. A segunda etapa de execução deste trabalho foi dividida em duas fases: a primeira, de recuperação dos documentos de patente pertinentes, e a segunda, de análise dos dados e apresentação dos resultados.
+3.1 Busca de documentos de patente de silicone para cabos elétricos resistentes a chama
+A primeira etapa para recuperação dos documentos de patente de interesse consistiu em identificar os pedidos de patente de cabos elétricos resistentes à chama. Para tal, foram empregadas nas busca as classificações H01B 7/29 e H01B 7/295, totalizando 4.054 documentos publicados entre 2011 e 20145. A estrutura hierárquica da classificação está na figura 6.
+5 O intervalo de tempo empregado para a busca foi menor, visto que o objetivo era encontrar as tecnologias mais recentes descritas em documentos de patente.
+INPI/DICOD/CEDIN/COPIP/OBTEC | Segunda etapa: pedidos de patente de cabos elétricos revestidos de 19
+silicone resistentes à chama
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+Figura 6: Estrutura hierárquica da classificação de patentes para cabos resistentes à chama (H01 7/29 e H01 7/ 295)
+Fonte: http://ipc.inpi.gov.br/
+A segunda etapa do levantamento de documentos de patente de interesse consistiu em selecionar, na amostra envolvendo pedidos de cabos elétricos, aqueles em que houve o emprego de silicones. Esta seleção foi feita com base nas classificações de patentes correspondentes (tabela 5), totalizando 101 documentos, e por meio de palavras-chave (“silicone” ou “polysiloxane” no título ou resumo dos pedidos de patente), resultando em 226 documentos. Juntando as duas amostras, tem-se o conjunto final de pedidos de patente de cabos elétricos contendo silicone com 243 pedidos (figura 8). Outra classificação utilizada foi a A62C 3/16, referente a estruturas para prevenção, contenção ou extinção do fogo adaptada para objetos ou lugares com instalações elétricas como, por exemplo, cabos condutores. Essa busca foi capaz de recuperar 340 pedidos de patente.
+Figura 7: Estrutura hierárquica da classificação de patentes de cabos resistentes à chama (A62C 3/16)
+INPI/DICOD/CEDIN/COPIP/OBTEC | Segunda etapa: pedidos de patente de cabos elétricos revestidos de 20
+silicone resistentes à chama
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+
+Fonte: http://ipc.inpi.gov.br/
+
+Somando os documentos recuperados utilizando as duas classificações citadas (A62C 3/00 e A62C 3/16) tem-se uma amostra de 4.393 pedidos de patente.
+
+A segunda etapa do levantamento de documentos de patente de interesse consistiu em selecionar, na amostra envolvendo pedidos de patente de cabos elétricos (340 documentos), aqueles em que houve o emprego de silicones. Esta seleção foi feita com base nas classificações de patente correspondentes (Tabela 5), totalizando 101 documentos, e por meio de palavras-chave (“silicone” ou “polysiloxane” no título ou resumo dos pedidos de patente), resultando em 226 documentos.
+
+Tabela 5: Classificações utilizadas para selecionar os pedidos de patente de silicone no conjunto de documentos sobre cabos elétricos resitentes à chama
+
+Classificação Internacional de Patentes
+Pedidos de patente referentes a elementos elétricos básicos H01B 3/46 - Isoladores ou corpos isolantes caracterizados pelos materiais isolantes; Utilização de materiais específicos devido a suas propriedades isolantes ou dielétricas >> consistindo, principalmente, de substâncias orgânicas>> resinas; ceras; resinas; ceras>> silicones
+Pedidos de patente de polímeros (produto e processo)
+C08G 77/04 - Polissiloxanas C08G 77/06 · · Processos de preparação de polissiloxanas C08G 77/12 · · Polissiloxanas contendo silício ligado ao hidrogênio
+C08G 77/14 Polissiloxanas contendo silício ligado a grupos contendo oxigênio
+C08G 77/16 Polissiloxanas contendo silício ligado a grupos hidroxila
+C08G 77/20 Polissiloxanas contendo silício ligado a grupos alifáticos insaturados
+
+Número de documentos de
+patente
+107
+4 1 1 2 1 1
+
+INPI/DICOD/CEDIN/COPIP/OBTEC | Segunda etapa: pedidos de patente de cabos elétricos revestidos de 21
+silicone resistentes à chama
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+
+Classificação Internacional de Patentes C08G 77/24 Polissiloxanas contendo grupos contendo halogênio
+
+Número de documentos de
+patente
+3
+
+C08G 77/44· Polímeros em bloco ou enxertados contendo segmentos de polissiloxanas >> contendo apenas sequências de polissiloxanas
+C08G 77/442· Polímeros em bloco ou enxertados contendo segmentos de polissiloxanas >> contendo sequências de polímeros vinílicos C08G 77/50 · em que pelo menos dois átomos de silício, mas não a totalidade, são ligados de outro modo que não por átomos de oxigênio >> · · por ligações de carbono
+Pedidos de patente de composições contendo polímeros
+C08L 83/04 · Polissiloxanos
+C08L 83/05 · · contendo silício ligado ao hidrogênio
+C08L 83/06 · · contendo silício ligado a grupos contendo oxigênio
+C08L 83/07 · · contendo silício ligado a grupos alifáticos insaturados
+
+1
+1 3
+93 6 9 43
+
+C08L 83/08 · · contendo silício ligado a grupos orgânicos contendo átomos outros que não o carbono, o hidrogênio e o oxigênio
+C08L 83/10 · Copolímeros em bloco ou enxertados contendo segmentos de polissiloxanas C08L 83/14 · em que pelo menos dois átomos de silício mas não sua totalidade são ligados de outra maneira que não por átomos de oxigênio
+C08L 83/16 · em que todos os átomos de silício são ligados de outra maneira que não por átomos de oxigênio
+
+4 1 2 4
+
+Pedidos de patente de composições de revestimento
+C09D 183/04 • Polisiloxanas C09D 183/06 • • contendo silício ligado a grupos contendo oxigênio C09D 183/07 • • contendo silício ligado a grupos alifáticos insaturados C09D 183/08 • • contendo silício ligado a grupos orgânicos contendo átomos diferentes de carbono, hidrogênio e oxigênio C09D 183/10 • Copolímeros em bloco ou enxertados contendo sequências de polisiloxanas
+C09D 183/16• • • contendo sequências de poliéter
+Outras classificações C09J 183/06 - Adesivos·a base de Polisiloxanas >> contendo silício ligado a grupos contendo oxigênio C09J 183/08 - Adesivos·a base de Polisiloxanas >> contendo silício ligado a grupos orgânicos contendo átomos diferentes de carbono, hidrogênio e oxigênio
+B32B-025/20 - Produtos em camadas compreendendo, essencialmente, borracha natural ou sintética >> · compreendendo borracha de silicone
+C08F-299/08 - Compostos macromoleculares obtidos por meio de reação interna de polímeros envolvendo apenas reações de ligação insaturada carbono-carbono, na ausência de monômeros não-macromoleculares >> · · a partir de polissiloxanas
+Fonte: Elaboração própria
+
+6 4 1 3 2 1
+2 1
+1
+2
+
+Juntando as duas amostras, tem-se o conjunto final de pedidos de patente de cabos elétricos contendo silicone com 243 pedidos (Figura 8).
+
+INPI/DICOD/CEDIN/COPIP/OBTEC | Segunda etapa: pedidos de patente de cabos elétricos revestidos de 22
+silicone resistentes à chama
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+Figura 8: Esquema de busca de documentos de patente de cabos elétricos resistentes a chama, contendo silicones
+Fonte: Elaboração própria
+Estes documentos foram indexados em uma base de dados em Access e lidos um a um, com a finalidade de classificá-los segundo as seguintes categorias: tipo de produto de silicone, composição, processo de fabricação do silicone e aplicação final do cabo (figura 9).
+INPI/DICOD/CEDIN/COPIP/OBTEC | Segunda etapa: pedidos de patente de cabos elétricos revestidos de 23
+silicone resistentes à chama
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+Figura 9: Máscara de leitura de documentos de patente de cabos elétricos de silicone
+Após a leitura, 35 pedidos foram retirados da amostra, por não serem pertinentes ao assunto. Os dados da leitura foram uniformizados e os resultados são apresentados a seguir. As planilhas com todos os pedidos de cabos elétricos e aquela restrita aos documentos de patente de cabos elétricos contendo silicone, bem como as respectivas categorias atribuídas se encontram em arquivo anexo a este estudo.
+INPI/DICOD/CEDIN/COPIP/OBTEC | Segunda etapa: pedidos de patente de cabos elétricos revestidos de 24
+silicone resistentes à chama
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+3.2 Resultados: análise dos pedidos de patente de cabos elétricos contendo silicone resistentes à chama
+Foram identificados 208 documentos de patente de silicone em cabos elétricos resistentes à chama e ao calor. Estes documentos foram analisados e categorizados de acordo com:
+- o tipo de produto final ao qual o documento se refere; - o tipo de produto de silicone descrito no documento de patente; - o papel do silicone na composição ou tipo de composição; - o setor de aplicação final do cabo (quando mencionado no documento).
+Em relação ao tipo de produto final, os 208 documentos foram divididos nas seguintes categorias:
+ Material para cabo: documentos de patente sobre composições para revestimento dos cabos ou pedidos de patentes sobre material utilizado para fazer o cabo;
+ Cabo em si: documentos de patente (em geral modelos de utilidade) sobre o cabo em si, ou seja, sobre a disposição, tamanho de camadas entre outras características do cabo.
+Neste sentido, foram identificados 133 documentos de patente de material do cabo e outros 78 sobre o cabo em si.
+3.2.1 Análise dos pedidos de patente de material para o cabo Foram identificados 133 documentos referentes a composições de materiais para fazer cabos. A análise dos países da prioridade desses documentos, ou seja, país do primeiro depósito (tabela 6) permite visualizar possíveis polos de geração de tecnologias de materiais para fabricação de cabos. A China concentra grande parte dos depósitos na área, sendo responsável por 78% dos documentos de patente. O Japão, segundo colocado, apresenta somente 16%.
+INPI/DICOD/CEDIN/COPIP/OBTEC | Segunda etapa: pedidos de patente de cabos elétricos revestidos de 25
+silicone resistentes à chama
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+
+Tabela 6: País de prioridade dos documentos de patente de material para fazer cabos resistentes à chama utilizando silicone
+
+Número de documentos de patente
+
+País da prioridade
+
+104 China 21 Japão 5 Polônia 1 Escritório Europeu de Patentes 1 França 1 Federação Russa
+Fonte: Elaboração própria.
+
+Entre os pedidos de patente depositados prioritariamente na China e no Japão, poucos deles também foram depositados em outros países, como pode ser observado na tabela 7. Isto denota que a maior parte dos depositantes da área busca proteção das referidas tecnologias apenas em seus próprios mercados.
+
+INPI/DICOD/CEDIN/COPIP/OBTEC | Segunda etapa: pedidos de patente de cabos elétricos revestidos de 26
+silicone resistentes à chama
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+
+Tabela 7: Relação entre país de prioridade x país de depósito dos pedidos de patente de material de cabos elétricos resistentes à chama e calor
+
+China
+
+WIPO (PCT)
+
+China
+Japão
+Polônia Escritório Europeu
+de Patentes França Federação
+Russa Total
+
+104 1 1
+106
+
+2 6
+1 9
+
+Japão 1 18
+19
+
+Países de depósito
+
+Escritório Europeu de
+Patentes
+
+Estados Unidos
+
+República da Coréia
+
+Polônia
+
+Federação Russa
+
+Canadá
+
+França
+
+Taiwan
+
+Total
+
+1 11
+
+104
+
+1 11
+
+1 21
+
+55
+
+11
+
+11
+
+1
+
+11
+11
+3 3 2 5 2 111
+Fonte: Elaboração própria
+
+Países de Origem
+
+INPI/DICOD/CEDIN/COPIP/OBTEC | Segunda etapa: pedidos de patente de cabos 27 elétricos revestidos de silicone resistentes à chama
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+
+Os 10 principais depositantes de patente, ou seja, aqueles com 4 ou mais documentos, contabilizam 45 documentos (cerca de 34%) na área, o que mostra que não há concentração tecnológica no mundo.
+
+Tabela 8: Principais depositantes de pedidos de patente de silicone para cabos elétricos resistentes à chama
+
+Depositante
+
+Número de documentos de patente
+
+FUJIKURA LTD WHHU HANGTIAN SPECIAL CABLE FACTORY
+
+15 7
+
+ANHUI JINQIAO CABLE CO
+
+5
+
+SHENZHEN WOER HEAT SHRINKABLE MATERIALS
+AKAD GORNICZO HUTNICZA IM STA*
+INST INZYNIERII MATERIALOW POLYIMEROWYCH*
+POLITECHNIKA LODZKA*
+
+5 5 5 5
+
+NINGBO YIZHOU PLASTICS CO LTD
+
+4
+
+ORIGINAL DOW ADVANCED COMPOUNDS SHANGHAI
+
+4
+
+TONGLING TONGDU SPECIAL CABLE PLANT
+
+4
+
+Fonte: Elaboração própria *Cabe ressaltar que a Akad Gorniczo Hutnicza Im Sta (AGH University of Science and Technology), o Inst Inzynierii Materialow Polyimerowych (Institute for Engineering of Polymer Materials & Dyes) e a Politechnika Lodzka (Lodz University of Technology), todos poloneses, são co-depositantes nos 5 pedidos de patente que aparecem no ranking.
+
+Os documentos foram separados de acordo com o tipo de composição a qual se referiam, incluindo:
+ composições contendo borracha de silicone (onde a borracha é a base da composição, ou somente uma parte menor da composição)
+ composições onde o silicone é o lubrificante  composições de outros silicones que não borracha, entre outros tipos.
+As composições descritas nos pedidos de patente são, em sua maioria (49), à base de borracha de silicone. Estes pedidos contemplam aqueles em que a
+
+INPI/DICOD/CEDIN/COPIP/OBTEC | Segunda etapa: pedidos de patente de cabos 28 elétricos revestidos de silicone resistentes à chama
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+
+borracha de silicone é a base da composição (maior percentual) e os pedidos em que a borracha de silicone é parte composição, mas não o componente principal.
+
+No que diz respeito ao papel do silicone nas composições descritas nos 133 documentos de patente analisados, a tabela 9 traz o resultado encontrado, destacando-se o uso de silicones, que não são borracha, nas referidas composições para fabricar ou revestir cabos elétricos.
+
+Tabela 9: Papel do silicone nas composições utilizadas no revestimento ou manufatura de cabos elétricos
+
+Papel do silicone na composição
+
+Número de documentos de patente
+
+Composições contendo outros silicones (não borracha)
+
+35
+
+Composições em que o silicone é o lubrificante
+
+30
+
+Composições em que borracha de silicone é a base
+
+26
+
+Composições contendo borracha de silicone
+
+23
+
+Composições em que o silicone é agente de processamento
+
+7
+
+Compósitos de silicone
+
+5
+
+Ceramização de silicone
+
+4
+
+Silicone como agente de tratamento de superfície
+
+4
+
+Composições em que o silicone é aditivo ou estabilizante
+
+3
+
+Composições em que outros silicones (não borracha) são a base
+Composições em que o silicone é o "antidripping" (acho que vale nota de rodapé explicando o que é antidripping)
+
+3 1
+
+Espuma de borracha de silicone Fonte: Elaboração própria
+
+1
+
+A amostra de 133 documentos de patente também foi analisada quanto ao tipo de silicone descrito em cada um dos documentos. Observa-se na tabela 10 que diversos tipos de silicone, com distintas funções, podem ser empregados na manufatura de cabos elétricos resistentes à chama.
+
+INPI/DICOD/CEDIN/COPIP/OBTEC | Segunda etapa: pedidos de patente de cabos elétricos revestidos de 29
+silicone resistentes à chama
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+
+Tabela 10: Principais tipos de silicone empregados em composições para manufatura de cabos elétricos resistentes à chama
+
+Papel do silicone na composição
+
+Tipos de silicone – produto (Número de documentos de patente) -
+
+Composições contendo outros silicones (não borracha)(35)
+Composições em que o silicone é o lubrificante (30)
+Composições em que borracha de silicone é a base (26)
+Composições contendo borracha de silicone (23)
+Composições em que o silicone é agente de processamento (7)
+Compósitos de silicone (5)
+Ceramização de silicone (4)
+Silicone como agente de tratamento de superfície (4)
+
+silicone modificado(6); silicone orgânico (6);
+silicone em pó (5); silicone masterbatch (3); óleo de dimetil silicone(3)
+silicone masterbatch (7); silicone oil (5);
+silicone (não especificado) (4); silicone orgânico (3);
+silicone de alto peso molecular (3) Borracha de metil vinil silicone (15);
+borracha de silicone (5); borracha de vinil silicone (3); borracha de fenil silicone 2);
+silicone orgânico (1)
+borracha de silicone (15); borracha de silicone modificada(4);
+silicone (não especificado) (2); borracha de fenil silicone (1); borracha de dimetil silicone (1) silicone (não especificado) (2);
+silicone masterbatch (1); óleo de silicone (1);
+silicone de alto peso molecular (1); óleo de dimetil silicone(1); silicone composites (2);
+methyl vinyl silicone rubber (1); silicon-containing polymer composite (1);
+resina termoplástica de silicone (1)
+Compósitos de silicone (2); Borracha de metil vinil silicone (1); resina termoplástica de silicone (1)
+silicone (não especificado) (1); silicone orgânico (1);
+óleo de metil hidrogênio silicone (1); superfície tratada com hidróxido metálico tratado com
+silicone (1)
+
+Composições em que o silicone é aditivo ou estabilizante (3)
+
+silicone (não especificado) (2); pó de silicone (1)
+
+Composições em que outros silicones (não borracha) são a base
+(3)
+Composições em que o silicone é o "antidripping"(1)
+
+óleo de dimetil silicone(1); borracha de silicone modificada(1);
+óleo de metil silicone(1)
+silicone (não especificado) (1)
+
+Espuma de borracha de silicone (1)
+
+borracha de silicone (1)
+
+Fonte: Elaboração própria
+
+INPI/DICOD/CEDIN/COPIP/OBTEC | Segunda etapa: pedidos de patente de cabos elétricos revestidos de 30
+silicone resistentes à chama
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+
+Quanto à aplicação final a que se destinam os cabos elétricos resistentes à chama, apenas 28 documentos apresentam esta informação, destacando-se o setor automotivo (tabela 11).
+Tabela 11: aplicação final dos pedidos de patente de material para cabos elétricos resistentes à chama
+
+Aplicação final dos cabos elétricos resistentes à chama
+Automóveis Eletrônica e comunicação
+Indústria nuclear
+Aparelhos elétricos
+Cabo ótico Cabos elétricos de interiores
+Ferroviário
+
+Número de Pedidos de Patente
+10 5 5
+2
+2 2
+2
+
+Barcos
+
+1
+
+Cabos de transformadores de alta tensão
+
+1
+
+Gerador de energia eólica
+
+1
+
+Instrumentos médicos (desinfecção por irradiação)
+
+1
+
+Mineração Fonte: Elaboração própria
+
+1
+
+3.2.2 Patentes de cabos em si
+
+Esta amostra, com 75 documentos, reúne os pedidos de patentes que descrevem a disposição das camadas dos cabos elétricos. São, em sua maioria, pedidos de patente de modelo de utilidade6.
+
+Esta amostra, assim como a analisada na seção anterior (pedidos de patente sobre materiais para fabricação de cabos elétricos resistentes à chama) é representativa de tecnologias, em sua maioria, geradas na China (tabela 12).
+
+6 O Modelo de Utilidade é a criação de algo resultante da capacidade intelectual do seu autor, referindo-se a um objeto de uso prático ou parte deste. Este objeto deve ser tridimensional (como instrumentos, utensílios e ferramentas), apresentar nova forma ou disposição, que envolva ato inventivo e resulte em melhoria funcional no seu uso ou fabricação. Este deve ser suscetível DIRPA/CGPAT II 4/10 de aplicação industrial. Sistemas, processos, procedimentos ou métodos para obtenção de algum produto não estão inclusos neste tipo de proteção (INPI, 2015).
+INPI/DICOD/CEDIN/COPIP/OBTEC | Segunda etapa: pedidos de patente de cabos elétricos revestidos de 31
+silicone resistentes à chama
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+
+Tabela 12: Polos de geração das tecnologias de fabricação de cabos elétricos resistentes à chama
+
+Polos de geração das tecnologias de fabricação de cabos elétricos resistentes à chama China Japão Federação russa República da Coréia Estados Unidos Austrália Escritório Europeu de patentes Itália Fonte: Elaboração própria
+
+Número de pedidos de patente 45 13 9 6 2 1 1 1
+
+Entre os 75 documentos de patente analisados, a maioria descreve cabos elétricos contendo camadas de borracha de silicone, como pode ser observado na tabela 13.
+
+Tabela 13: Tipo de silicone descritos nos documentos de patente referentes a cabos elétricos resistentes à chama
+
+Número de Pedidos 37 9 4
+3
+3
+3
+2
+2 2 2
+1
+
+Produto de silicone Borracha de silicone Borracha de silicone reticulada
+Silicone orgânico
+Borracha de silicone modificada
+Silicone
+Adesivo de silicone
+Óleo de dimetil silicone
+Borracha de metil vinil silicone Compósito polimérico contendo silicone
+Compósitos de silicone
+Silicone de alto peso molecular
+
+INPI/DICOD/CEDIN/COPIP/OBTEC | Segunda etapa: pedidos de patente de cabos elétricos revestidos de 32
+silicone resistentes à chama
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+
+Número de Pedidos 1 1 1 1 1 1 1
+
+Produto de silicone Copolímero de polyeterimida/siloxana
+Silicone em pó Gel de silicone Hidróxido de silicone; espuma de silicone Masterbatch de silicone Óleo de silicone Pó de silicone Fonte: Elaboração própria
+
+INPI/DICOD/CEDIN/COPIP/OBTEC | Segunda etapa: pedidos de patente de cabos elétricos revestidos de 33
+silicone resistentes à chama
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+4 Conclusões
+O presente trabalho apresenta os resultados do estudo elaborado para sensibilizar as empresas da comissão setorial de silicones da Abiquim quanto à importância estratégica da informação tecnológica disponível em documentos de patente.
+O uso estratégico da informação de patentes envolve, entre muitos outros, a identificação de tendências tecnológicas em distintos setores, o mapeamento de competências existentes, além da verificação das tecnologias que estão livres para serem exploradas no País.
+Para o presente estudo, foram analisados apenas os documentos de patente na área de química referentes a produtos de silicone.
+Em relação às tendências tecnológicas, observa-se que o silicone é um produto químico com aplicações diversas, que perpassam distintas áreas do conhecimento. Isso se reflete no grande número de pedidos de patente de silicone publicados no mundo nos últimos dez anos, cujas tecnologias pertencem a grandes empresas químicas, estão, em sua maioria, disponíveis para exploração no Brasil. As principais aplicações dos silicones destacadas nos referidos documentos são em semicondutores e em composições para revestimentos.
+Ao se analisarem as tendências tecnológicas no uso de silicones para fabricação de cabos elétricos resistentes à chama, observam-se dois grandes grupos: o de composições para manufatura dos cabos (133 documentos de patente) e o de cabos propriamente ditos (78).
+Por meio também das análises dos pedidos de patente deste estudo, foi possível concluir que o silicone pode ser utilizado de diversas formas na fabricação de cabos elétricos resistentes a chama, como, por exemplo, entre as camadas dos
+INPI/DICOD/CEDIN/COPIP/OBTEC | Conclusões 34
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+referidos cabos ou em composições para seu revestimento. Além disso, tipos diferentes de silicone podem ter papéis distintos nas composições de fabricação e revestimento dos cabos, tais como, o uso como lubrificante ou como parte auxiliar do cabo. Sugere-se como desdobramento do presente estudo, o uso de sua metodologia na análise de patentes de silicones com outras aplicações em distintos setores.
+INPI/DICOD/CEDIN/COPIP/OBTEC | Conclusões 35
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+5 Anexo 1: Classificação Internacional de Patente referente a silicones
+INPI/DICOD/CEDIN/COPIP/OBTEC | Anexo 1: Classificação Internacional de Patente referente a silicones 36
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+INPI/DICOD/CEDIN/COPIP/OBTEC | Anexo 1: Classificação Internacional de Patente referente a silicones 37
+
+USO ESTRATÉGICO DA INFORMAÇÃO TECNOLÓGICA DE PATENTES ESTUDO SETORIAL DO USO DE SILICONES EM CABOS ELÉTRICOS RESISTENTES À CHAMA
+INPI/DICOD/CEDIN/COPIP/OBTEC | Anexo 1: Classificação Internacional de Patente referente a silicones 38
+

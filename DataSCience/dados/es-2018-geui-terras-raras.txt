@@ -1,0 +1,379 @@
+MINISTÉRIO DA INDÚSTRIA, COMÉRCIO EXTERIOR E SERVIÇOS INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL
+Coordenação Geral de Estudos, Projetos e Disseminação da Informação Tecnológica - CEPIT Diretoria de Patentes, Programas de Computador e Topografias de Circuitos Integrados - DIRPA
+ESTUDO SETORIAL SOBRE PATENTES DE GERADORES EÓLICOS FAZENDO USO DE ÍMÃS COM TERRAS RARAS EM SUA COMPOSIÇÃO QUÍMICA
+Rio de Janeiro 2018
+
+GERADORES EÓLICOS FAZENDO USO DE ÍMÃS COM TERRAS RARAS EM SUA COMPOSIÇÃO QUÍMICA
+
+Instituto Nacional da Propriedade Industrial – INPI Presidente: Luiz Otávio Pimentel Vice-Presidente: Mauro Sodré Maia
+Diretoria de Patentes, Programas de Computador e Topografias de Circuitos Integrados – DIRPA Júlio César Castelo Branco Reis Moreira
+Coordenação Geral de Estudos, Projetos e Disseminação da Informação Tecnológica- CEPIT Alexandre Lopes Lourenço
+Divisão de Estudos e Projetos- DIESP Cristina d’Urso de Souza Mendes Santos
+Autor Marcelo Ricardo Alves da Costa Tredinnick
+
+ESTUDO SETORIAL SOBRE PATENTES DE GERADORES EÓLICOS FAZENDO USO DE ÍMÃS COM TERRAS RARAS EM SUA COMPOSIÇÃO QUÍMICA
+
+Ficha catalográfica elaborada pela Biblioteca Economista Claudio Treiguer – INPI
+
+T786e
+
+Tredinnick, Marcelo Ricardo Alves da Costa.
+Estudo setorial sobre patentes de geradores eólicos fazendo uso de ímãs
+com terras raras em sua composição química. Rio de Janeiro: Instituto Nacional da Propriedade Industrial – INPI, Diretoria de Patentes - DIRPA,
+Coordenação Geral de Estudos, Projetos e Disseminação da Informação
+Tecnológica - CEPIT, Coordenação de Pesquisa em Inovação e Propriedade Intelectual – COPIP, Divisão de Estudos e Projetos- DIESP, 2017.
+
+Estudo Setorial - 22 f.; il.; tabs.
+
+1. Patentes - Gerador eólico – Terras raras 2. Informação tecnológica – Gerador eólico. 3. Informação tecnológica – Terras raras. I. Instituto
+Nacional da Propriedade Industrial (Brasil). II. Título.
+
+CDU: 347.771:546.3
+
+2/22
+
+1 INTRODUÇÃO
+
+GERADORES EÓLICOS FAZENDO USO DE ÍMÃS COM TERRAS RARAS EM SUA COMPOSIÇÃO QUÍMICA
+
+O presente Estudo Setorial tem como escopo acompanhar o desenvolvimento tecnológico dos geradores eólicos que possuem terras raras [1] na composição de seus ímãs
+permanentes no mundo e principalmente no Brasil.
+
+1.1 GERADORES EÓLICOS
+Histórico:
+A conversão da energia cinética em energia mecânica já é uma velha conhecida da humanidade. Seu uso iniciou-se na antiguidade com as rodas-d’água, usadas como substituto para a mão-de-obra humana e a tração animal no processo de moagem de grãos ou mesmo bombeamento de água para irrigação agrícola. Entretanto, era necessário construir tais máquinas em quedas d’água ou em rios e isso nem sempre era possível, pois nem sempre se dispunha desse tipo de benefício da natureza num território ou reino. Foi então que se fez necessário imaginar um novo tipo de máquina que utilizasse outro recurso natural para fazer o mesmo efeito. Sábios que serviam ao rei Hamurabi, do império babilônico no século XVIII A.C., propuseram o que chamaram de “asbad” e consistia numa máquina parecida com as rodas d’água, porém a qual usaria a força do vento ao invés da água corrente visando disponibilizar sua utilização em qualquer local. Nascia assim, no reino de Hamurabi os rudimentos do que chamamos de “moinho de vento”. Foi a partir de então que esse tipo de conversão de energia (energia cinética do vento para energia mecânica) foi sendo utilizada e disseminada ao redor do planeta através dos séculos migrando inicialmente para a Pérsia e China. A tecnologia rudimentar dos moinhos de vento só chegou à Europa no ano de 1.185 D.C., i.e., com um atraso de aproximadamente 2.935 anos.
+646 anos depois, em 1.831, o gênio inglês Michael Faraday descobriu a indução eletromagnética e a partir daí inventou o primeiro gerador elétrico da história: o “disco de Faraday” [2]. A partir deste invento de Faraday as pesquisas sobre geradores elétricos cresceram sem parar gerando contribuições de diversas partes do mundo. Assim, era uma questão de tempo para alguém unir as duas tecnologias: o gerador de eletricidade e o moinho de vento. Esse tempo foi de exatos 54 anos e para tal nova tecnologia deu-se o nome de “gerador eólico” ou “aerogerador”. Um gerador eólico, aerogerador, ou “gerador eólico de eletricidade”, é uma máquina capaz de converter a energia cinética do vento em energia elétrica. Por ter como força motriz um recurso natural não poluente a tecnologia de geração eólica é considerada como “energia renovável”. O primeiro gerador eólico que se tem notícia foi o inventado em 1.885 pelo Engenheiro Eletricista escocês James Blyth, em Marykirk, Escócia, aproveitando-se de um moinho horizontal desativado que originalmente era movido por tração animal (tipo “atafona”). Blyth o remodelou, elevando-o a cerca de 5 metros de altura e adaptou pás retangulares de modo a provocar movimento com o vento e acoplou o eixo do moinho com o eixo de um gerador elétrico. Assim com o movimento do moinho provocado pelo vento era possível gerar energia elétrica a qual ainda era acumulada em baterias para alimentar lâmpadas elétricas de sua casa de campo [3]. Posteriormente, o norteamericano Charles F. Brush entre 1.887 e 1.888 fez uso de um moinho de vento de 17 metros de diâmetro, tal como Blyth fez, e conseguiu gerar 12kW de potência elétrica, usados também para recarregar baterias [4]. Em 1.891 o inventor dinamarquês Poul La Cour fez uso de um gerador eólico que ele mesmo desenvolveu para produzir Hidrogênio via eletrólise da água, cujo gás era usado em diversas lâmpadas nas salas de aula na Askov Folk High School. O sucesso das invenções de Blyth e La Cour na Europa e Brush nos EUA chamaram a atenção de engenheiros e cientistas de todo o planeta. Diversos experimentos e invenções surgiram por todo o globo gerando assim uma evidente revolução na geração de energia renovável apresentando um crescimento exponencial (figura 1a).
+
+3/22
+
+GERADORES EÓLICOS FAZENDO USO DE ÍMÃS COM TERRAS RARAS EM SUA COMPOSIÇÃO QUÍMICA
+O Brasil segue avançando no setor, porém mantendo apenas 33 parques eólicos espalhados no país com capacidade total de geração de cerca de 414 MW de potência. Países como EUA, Alemanha, Espanha, China e Índia já geram potências acima de 25 GW, 16 GW, 12 GW e 9 GW, respectivamente, com seus parques eólicos [5].
+A energia eólica e paradigmas estruturais: De fato a energia eólica, tal como outras formas de geração de energia
+renovável/sustentável, tem se mostrado como alternativas às formas poluentes de geração de energia tais como as baseadas em combustíveis fósseis e nucleares.
+(a) (b) Figura 1. (a) Evolução da capacidade instalada de geração eólica de eletricidade no mundo[6]. (b) Correlação entre a capacidade de geração e o diâmetro dos aerogeradores[5].
+Analisando a figura 1b verificamos que ao longo dos anos o aumento na potência elétrica gerada aparenta demonstrar uma proporcionalidade com o aumento do diâmetro da área de varredura do aerogerador dando a falsa impressão de que poderemos aumentar sem limite o diâmetro dos mesmos. Entretanto, engenharia mostra que isso não é realizável: não é possível aumentar indefinidamente o diâmetro do rotor. Dependendo ainda do tipo de aerogerador é possível que o aumento do diâmetro cause decréscimo no coeficiente de potência (Cp) que é dado pela razão entre a potência elétrica gerada e a potência de entrada do vento [7]. No eixo das abscissas da figura 2 a razão “blade tip speed / wind speed” pode ser dada por .R /v onde  é a velocidade angular do rotor, R é o raio do rotor e v é a velocidade do vento. Caso imaginarmos  e v constantes tal razão dependerá somente de R e assim pode-se perceber que para todos os tipos de aerogeradores aumentando o raio chegaremos a um valor máximo de Cp, um valor ótimo, a partir do qual Cp decresce. Teoricamente, mesmo que pudéssemos aumentar indefinidamente o diâmetro do rotor, ainda assim não conseguiríamos aumentar indefinidamente a potência gerada uma vez que estaríamos subordinados ao chamado “limite de Betz” dos aerogeradores (figura 2). Essa limitação empírica desestimula a busca por aumento de eficiência apenas baseado no aumento desenfreado do diâmetro dos rotores.
+4/22
+
+GERADORES EÓLICOS FAZENDO USO DE ÍMÃS COM TERRAS RARAS EM SUA COMPOSIÇÃO QUÍMICA
+Figura 2. Variação do coeficiente de potência de acordo com a razão da velocidade tangencial do rotor com a velocidade do vento, para cinco tipos de aerogeradores [7].
+Assim, uma vez que se identificou a limitação técnica quanto ao aumento do diâmetro dos aerogeradores, qual poderia ser a solução? Para tanto, é preciso preliminarmente que analisemos um modelo matemático simples de um aerogerador, tal como o da figura 3. Modelos mais complexos poderão ser facilmente gerados a partir deste. O objetivo de usar tal modelo simples é evidenciar uma variável chave referente a este estudo: o campo magnético nos ímãs permanentes do gerador eólico.
+Figura 3. Modelo “benchmark” utilizando aerogerador de três lâminas com gerador monopolar shunt com a mais simples relação de engrenagens.
+Este simples modelo matemático permite verificar que uma massa de ar de densidade  deslocada a uma velocidade v na direção do rotor de raio R (com área de varredura A) é capaz de gerar uma corrente de carga I a qual é entregue pelo aerogerador, e que alimenta a carga RL (representando uma lâmpada, uma casa, um bairro, uma cidade, etc...). Assim, consideremos adicionalmente no
+5/22
+
+GERADORES EÓLICOS FAZENDO USO DE ÍMÃS COM TERRAS RARAS EM SUA COMPOSIÇÃO QUÍMICA
+modelo as seguintes variáveis:  (ângulo de declividade do rotor), N (número de espiras de cobre no gerador), P (número de pólos magnéticos), n (a velocidade do eixo-gerador em RPM, já com a devida conversão para rad/s diluída no desenvolvimento matemático), Ia (corrente elétrica na armadura do gerador), Ish (corrente elétrica na resistência “shunt”), If (corrente de campo), NM e Ng (quantidade de dentes nas engrenagens conectando o rotor ao gerador),  (velocidade angular do rotor, em rad/s) e  (a intensidade do fluxo magnético). Com esta inclusão, podemos salientar que a corrente elétrica entregue pelo aerogerador é função de todas estas variáveis tal como mostrado na equação 1.
+(eq.-1) Com base nas leis da física disponíveis na literatura [4] [8] [9] [10] [11] no que tange especialmente a aerodinâmica de turbinas eólicas, a lei de Faraday-Maxwell [12] e o princípio da conservação da energia, pode-se chegar à simples equação 2, considerado neste estudo como um modelo matemático válido.
+(eq.-2)
+Da equação 2 podemos generalizar a relação de engrenagens para uma função f que pode descrever transmissões mais complexas como, por exemplo, as engrenagens planetárias, comuns em muitos aerogeradores, proporcionando a equação 3.
+(eq.-3)
+Assim, analisando tal modelo, podemos chegar a uma conclusão preliminar de que a corrente elétrica gerada I é diretamente proporcional à intensidade de fluxo magnético  dos ímãs permanentes do gerador. Então, de imediato, podemos propor que se aumentarmos o  poderemos então imediatamente gerar mais corrente elétrica I sem alterar a estrutura mecânica do aerogerador, sendo uma estratégia de engenharia eficiente e econômica. Como fazer isso então? Antes de responder a essa questão convém observarmos primeiro a história das ligas magnéticas.
+Energia maremotriz e fluvial: Uma curiosidade sobre a equação 3 é que a corrente elétrica gerada é diretamente
+proporcional à densidade  do fluido que passa pelas pás, assim caso  aumente a corrente I também aumentará. Essa explicação matemática serve de apoio para a recente tendência de utilizar a força das marés / correntes marinhas e fluviais para gerar energia elétrica. A água do mar (=1.025 kg/m3) é 820 vezes mais densa que o ar (=1,25 kg/m3), o que significa que as turbinas subaquáticas podem ser
+6/22
+
+GERADORES EÓLICOS FAZENDO USO DE ÍMÃS COM TERRAS RARAS EM SUA COMPOSIÇÃO QUÍMICA
+menores do que uma turbina eólica para produzir a mesma quantidade de energia elétrica. Naturalmente, para esse caso, outras preocupações tecnológicas se tornarão mais relevantes como é o caso da corrosão ou a preservação da vida marinha [13].
+Ligas magnéticas: Por volta do ano 400 A.C. até pouco antes de 1.930 eram usados ímãs de “lodestone”,
+uma liga natural de “magnetita” (Fe3O4) com “maguemita” (Fe2O3), os quais garantiam força de campo magnético no ponto de máxima energia (o produto B.H|max) para valores inferiores à 0,5 MGOe (“Mega Gauss-Oersted”). A partir daí, no início dos anos 30, surgiram os ímãs de “aço inoxidável ferrítico” consistindo de ligas de Ferro com pequenas adições de Cromo e Carbono (11-17% de Cr e <0,3% de C) as quais garantiam força de campo magnético da ordem de 2,5 MGOe. Também nos anos 30 nasceram as “ferrites”: ligas metálicas ferromagnéticas extremamente baratas e fáceis de fabricar, porém fornecendo no máximo 3,8 MGOe. São divididos em ferrites moles (MnaZn(1-a)Fe2O4 e NiaZn(1a)Fe2O4) e duros (BaFe12O19 ou SrFe12O19), sendo estes últimos possuindo maior intensidade do fluxo magnético. Nos anos 40 surgiu mais uma inovação nos ímãs permanentes: o “aço inoxidável martensítico”, o qual chegava à marca dos 6 MGOe. O “aço inoxidável martensítico” é também uma liga como a anterior, porém com percentagens maiores de Cromo e Carbono (12-18% de Cr e 1-1,5% de C). Na mesma década surgiu o “AlNiCo”: outra liga metálica ferrosa contendo Alumínio, Níquel e Cobalto (9% de Al, 15% de Ni, 25% de Co e 51% de Fe), a qual alcançava 7 MGOe e proporcionava grande estabilidade térmica (-250ºC à 550ºC) e ainda era resistente à oxidação.
+Foi então que em 1.967 nasceu uma revolução científica no magnetismo: K. Strnat e G. Hoffer [14] desenvolveram as primeiras ligas magnéticas contendo terras-raras [1] obtendo campos magnéticos com intensidades bem maiores do que se tinha até então. Strnat e Hoffer desenvolveram originalmente com grande êxito os ímãs de “Samário-Cobalto” garantindo 20 MGOe para SmCo5 e 30 MGOe para Sm2Co17 e, pioneiramente, abriram as portas para o desenvolvimento de ímãs feitos com terras-raras. Strnat e Hoffer chegaram a estudar diversas ligas usando combinações de terras-raras (Y, Sc, La, Ce, Pr, Nd, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb e Lu) com Cobalto e ainda Ferro e Manganês. Apesar de Strnat e Hoffer terem feito uso do Neodímio (Nd) nas suas ligas magnéticas, não obtiveram o sucesso que pesquisadores norteamericanos e japoneses obtiveram 15 anos depois com ímãs magneticamente bem mais potentes usando ligas com Neodímio, Ferro e Boro [15] [16]. Tais ligas desenvolvidas por John Croat da GM e Yutaka Matsuura da Sumitomo Special Metals (Nd2Fe14B) chegavam aos 53 MGOe. Hoje em 2017 o recorde de força de campo magnético é 55 MGOe usando ligas Nd-Fe-B (figura 4). A Figura 4 mostra um breve histórico a respeito dos ímãs permanentes e ainda uma interessante comparação gráfica em termos do tamanho do ímãs de cinco tipos para gerar a mesma energia magnética, evidenciando a vantagem de usar as ligas Nd-Fe-B.
+7/22
+
+GERADORES EÓLICOS FAZENDO USO DE ÍMÃS COM TERRAS RARAS EM SUA COMPOSIÇÃO QUÍMICA
+Figura 4. Ímãs permanentes ao longo da história e com projeção até 2020 [16].
+Na figura 4 podemos perceber que, até o momento, os principais tipos de ímãs permanentes que fazem uso de terras raras de forma a gerar força de campo magnético considerável para aplicações industriais compreende em pelo menos dois elementos: Neodímio (Nd) e Samário (Sm). A mera observação da figura 4 permite concluir que a liga mais eficiente é aquela que faz uso do Neodímio e a menos eficiente a que faz uso de Itrio, estando ligas de Samário num estágio intermediário. É mais incomum, porém existe, o emprego de ligas fazendo uso de Disprósio (Dy-ErAl) e Térbio (Tb), mas apesar da vantagem quanto à redução do peso do ímã o custo elevado se torna um obstáculo para a indústria. Há relatos de ligas fazendo uso de Nd-Fe-B dopados com Disprósio visando gerar um equilíbrio entre o custo e a estabilidade térmica [18].
+Reservas e produção de terras-raras: Estudos apontam ainda para grandes reservas de neodímio na China, superando as
+reservas de Mountain Pass da Califórnia, EUA, a partir de 1.984 [19]. A China vem crescendo gradualmente sua extração de terras-raras já superando a marca de 110 milhões de toneladas por ano ao passo que as reservas dos EUA parecem estar se esgotando. Essa grande competitividade no domínio da mineração de terras-raras entre EUA e China impacta de forma proporcional no cenário de patentes em especial quanto ao emprego de terras-raras em ímãs para geradores eólicos tal como pode ser visto nas figuras 12 e 13 deste estudo. Um estudo do USGS [21] aponta a China como o país com as maiores reservas de terras-raras do mundo, seguido do Brasil e do Vietnã, empatados em segundo lugar e com a Rússia em terceiro lugar. Reforçando este estudo do USGS, o Brasil é apontado por um estudo estratégico da Câmara dos Deputados [20] como o segundo no ranking mundial em reservas de terras-raras, desmoronando para a sexta posição quando se trata de produção (extração mineral). Esse cenário é diferente quando se trata de EUA e China, por exemplo: a China se mantém em primeiro lugar no ranking tanto em reservas bem como na capacidade extrativa e os EUA são o terceiro em capacidade extrativa apesar de possuírem a sétima maior reserva de terras-raras do planeta. A União Européia tem se preocupado recentemente com a redução das exportações chinesas de terras-raras para
+8/22
+
+GERADORES EÓLICOS FAZENDO USO DE ÍMÃS COM TERRAS RARAS EM SUA COMPOSIÇÃO QUÍMICA
+a Europa e assim criou um programa de emergência que visa a reciclagem de terras-raras chamado EREAN (“European Rare Earth (Magnet) Recycling Network”) [26].
+A figura 5 mapeia as minas de óxidos de terras-raras no Brasil, de onde se pode observar uma maior concentração de jazidas no sudeste e nordeste [20], tendo como as principais jazidas, apresentando estimativas para suas reservas: Araxá, Catalão I, Pitinga, Morro do Ferro/Poços de Caldas, morro dos seis lagos e Tapira. Esses dados revelam um grande potencial nacional de exploração de terras-raras não somente para a exportação, mas também para a utilização no mercado interno visando a pesquisa em universidades, centros de pesquisa e utilização na indústria de nosso país.
+Figura 5. Localização de jazidas de terras-raras no Brasil [20].
+Estima-se que em nosso planeta haja 120 milhões de toneladas de terras-raras ainda inexploradas [21] numa proporção por elementos químicos tal como mostrada na figura 6 [19]. Entretanto, por se considerar a mineração de terras-raras um processo difícil, ambientalmente desastroso e perigoso para a saúde humana [24] devido aos problemas da bioacumulação humana desses elementos minerados (causam déficit de memória e também de QI em populações próximas às minas), recentemente algumas importantes pesquisas sobre reciclagem de terras-raras de ímãs usados e desgastados tem sido realizadas [25]. Uma dessas técnicas de reciclagem de terras-raras mais promissoras é a chamada “extração líquido-líquido” a qual foca essencialmente em extrair elementos como Neodímio e Disprósio com 95% de pureza. A “extração líquido-líquido” propõe dissolver o compósito envolvendo a terra-rara e a partir daí filtrar repetidamente por milhares de vezes. A partir daí esses elementos serão quimicamente recondicionados às ligas magnéticas de interesse industrial tais como Nd2Fe14B e óxido de Disprósio (Dy2O3). Este método seria uma alternativa econômica ao chamado “método hidrometalúrgico de filtragem” [27] o qual propõe extrair de ímãs descartados o Neodímio (Nd), Disprósio (Dy), Praseodímio (Pr), Gadolíneo (Gd), Térbio (também) e Európio (Eu).
+9/22
+
+GERADORES EÓLICOS FAZENDO USO DE ÍMÃS COM TERRAS RARAS EM SUA COMPOSIÇÃO QUÍMICA
+
+Figura 6. Proporção de átomos na crosta terrestre, com destaque para as terras-raras [19]. Tabela 1. Ranking de 2016 de países em termos de reservas e produção de terras-raras [20].
+
+(a) Ranking dos países detentores das maiores reservas de terras-raras.
+
+(b) Ranking dos maiores produtores de terras-raras.
+
+2 CRITÉRIOS DE BUSCA
+Para determinar a estratégia de busca em bases de dados de patentes, é necessário definir: o período do monitoramento; a(s) base(s) de dados a ser(em) usada(s); o enquadramento do setor, de acordo com a Classificação Internacional de Patentes (CIP) e a Classificação Cooperativa de Patentes (CPC); e as palavras-chave mais representativas. Tal mapeamento de palavras-chave e classificações de patentes está apresentado na figura 7. Esta tarefa foi executada tendo por base a estratégia de busca e filtragem mostrada na figura 8. Em especial, nesta figura 8 a estratégia de busca é apresentada esquematicamente como uma lógica a qual habilita a combinação de classificações sobre ímãs com terras-raras, classificações sobre turbinas eólicas e palavras-chave, conectados por meio de portas-lógicas E (cuja simbologia desta operação de conjunção lógica é dada por “∧”, figura 8) e OU (cuja simbologia desta operação de disjunção lógica é dada por “∨”). O estilo da Figura 8 busca fazer uma analogia com conexões por solda comuns em circuitos eletrônicos onde a pequena esfera de cor
+
+10/22
+
+GERADORES EÓLICOS FAZENDO USO DE ÍMÃS COM TERRAS RARAS EM SUA COMPOSIÇÃO QUÍMICA
+negra representa um ponto de conexão por solda fazendo a junção de uma linha com outra transversal e aonde não está tal esfera simboliza que não há conexão[29].
+Foi utilizado um grande conjunto de palavras-chave relacionadas com ímãs e terrasraras bem como a respeito de geradores eólicos e considerando truncamentos para considerar um amplo espectro de siglas ou plurais e diversas combinações de proximidade, a saber: turbina eólica, wind turbine, gerador eólico, wind generator, terra rara, rare earth, ímã permanente, permanente magnet, lantanídeo, lanthanide, lantânio, lanthanum, cério, cerium, praseodímio, praseodymium, neodímio, neodymium, NdFeB, Nd2Fe14B, R-T-B, R-Fe-B, promécio, promethium, samário, samarium, samário cobalto, samarium cobalt, SmCo5, európio, europium, gadolínio, gadolinium, térbio, terbium, disprósio, dysprosium, Dy2O3, Dy-Er-Al, hólmio, holmium, érbio, erbium, túlio, thulium, itérbio, ytterbium, lutécio, lutetium, escândio, scandium, ítrio, ytrium. Em seguida tais resultados foram filtrados em agrupamentos por famílias de patentes usando o recurso Viewer da ferramenta EPOQUE. Por fim, os resultados foram filtrados manualmente onde cada documento foi investigado com a leitura de seus quadros-reivindicatórios e relatórios descritivos.
+O período estabelecido para este Estudo foi de janeiro de 1970 até março de 2017 (data de publicação) e foram escolhidas para elaboração deste trabalho as bases do INPI e do Escritório Europeu de Patentes (EPO) [21,22]. O objetivo dessa busca foi prover um cruzamento entre CIPs (Classificação Internacional de patentes) e CPCs (“Cooperative Patent Classification”) relacionadas com ímãs com terras-raras e CIPs e CPCs a respeito de turbinas eólicas. Foram mapeadas 16 tipos de de classificações para ímãs com terras raras e ao menos quatro para turbinas eólicas, considerando a equivalência redundante entre CIP e CPC (figuras 10 e 11). Além dos cruzamentos das classificações de patentes foi considerada uma combinação de palavras-chave a respeito de geradores-eólicos (utilizando as referências: [2], [3], [4], [5], [6], [7], [8] e [11]) em conjunto com palavras-chave extraídas de referências a respeito de ligas magnéticas usando terras-raras (utilizando as referências: [1], [14], [15], [16], [17], [18], [19], [20] e [21]).
+11/22
+
+GERADORES EÓLICOS FAZENDO USO DE ÍMÃS COM TERRAS RARAS EM SUA COMPOSIÇÃO QUÍMICA
+Figura 7. Palavras-chave, CIP e CPC utilizadas.
+
+Figura 8. Estratégia de busca e filtragem.
+
+12/22
+
+GERADORES EÓLICOS FAZENDO USO DE ÍMÃS COM TERRAS RARAS EM SUA COMPOSIÇÃO QUÍMICA
+3 RESULTADOS A amostra deste estudo relativa à geradores eólicos possuindo terras raras nos ímãs
+permanentes do gerador eólico totalizou inicialmente 799 documentos de patente no mundo. Após uma filtragem desses dados para agrupar em famílias usando a ferramenta Viewer do sistema EPOQUE esse número caiu para 484 e, finalmente, após uma inspeção manual analisando detalhes do relatório descritivo e reivindicações de cada um dos documentos chegamos a 83 documentos que de fato estão utilizando terras-raras na composição química dos ímãs que estão presentes nos geradores os quais estão adaptados para operar dentro de naceles de geradores eólicos. Destas invenções verificou-se que 53 delas estão empregando o Neodímio em suas ligas de ímãs, 5 delas estão fazendo uma combinação de Neodímio com Samário-Cobalto, apenas uma está fazendo uso somente de Samário-Cobalto, apenas uma está fazendo uso somente de Itrio, apenas uma está fazendo uso somente de Disprósio e 19 delas não especificaram qual é a composição da liga do ímã. Não foram detectadas invenções depositadas por brasileiros, mas há três registros de depósitos estrangeiros no Brasil, a saber: BR112012033702 (da GAMESA INNOVATION & TECH), BR102013026968 (da Siemens AG) e BR102015015624 (da General Electric). Na tabela 2 podemos ver a situação desses documentos aqui no Brasil.
+Tabela 2. Situação dos pedidos BR112012033702, BR102013026968 e BR102015015624 mediante as publicações do INPI.
+Pedido: BR1120120337025A2 Depositante: GAMESA INNOVATION & TECHNOLOGY, S.L. Publicações:
+Pedido: BR102013026968A2 Depositante: SIEMENS AKTIENGESELLSCHAFT Publicações:
+Pedido: BR102015015624A2 Depositante: GENERAL ELECTRIC COMPANY Publicações:
+A CIP predominante é H02K 1/27 (“Details of the magnetic circuit / characterised by the shape, form or construction / Rotating parts of the magnetic circuit / Rotor cores with permanent
+13/22
+
+GERADORES EÓLICOS FAZENDO USO DE ÍMÃS COM TERRAS RARAS EM SUA COMPOSIÇÃO QUÍMICA
+magnets”), tal como indicado na figura 9. Em segundo lugar a mais citada é a CIP H02K 7/18 (“Arrangements for handling mechanical energy structurally associated with dynamo-electric machines, e.g. structural association with mechanical driving motors or auxiliary dynamo-electric machines / Structural association of electric generators with mechanical driving motors, e.g.with turbines”). A terceira CIP mais cidada foi F03D 9/00 (“Adaptations of wind motors for special use; Combinations of wind motors with apparatus driven thereby; Wind motors specially adapted for installation in particular locations (hybrid wind-photovoltaic energy systems for the generation of electric power)”). As demais CIP s se alternam predominantemente entre subgrupos de H02K e F03D, i.e., máquinas dínamo-elétricas e geradores eólicos, tal como esperado.
+Figura 9. Principais CIPs (software utilizado: Derwent Innovation / Clarivate Analytics). Estes resultados estão incluindo todos os documentos citados neste Estudo e suas famílias.
+Figura 10. Depósitos de patentes pelo mundo. A fase atual da tecnologia de geradores eólicos usando ímãs com terras-raras está na fase de declínio desde 2.013, após uma aparente fase de maturidade entre 2.009 e 2.013 (figura 10) e, até 2.009, esteve na fase de desenvolvimento da tecnologia. Como para toda tecnologia na sua fase de declínio os depósitos de patentes caem abruptamente uma vez que, por alguma razão, o assunto tecnológico em questão deixou de ser interessante/lucrativo para o mercado. No caso dos ímãs com terras-raras tem sido verificado um aumento na demanda desde 2.008 o que, pela lei da oferta e procura do capitalismo não iria demorar para influenciar nos preços, reduzindo-os. O que se verificou foi uma forte queda nos preços dos elementos de terras-raras após um pico em torno de julho de 2.011 [28] e este fator influenciou na queda dos preços a respeito de ímãs produzidos com terras-raras. A queda de preços de terras-raras que tem sido verificada desde 2.011 influenciou a queda dos preços de
+14/22
+
+GERADORES EÓLICOS FAZENDO USO DE ÍMÃS COM TERRAS RARAS EM SUA COMPOSIÇÃO QUÍMICA
+ligas magnéticas com terras-raras tais como principalmente as que fazem uso de Neodímio e Samário (NdFeB, SmCo). Por um estudo recente do USGS [21] é possível detectar a queda nos preços (em US$/kg) de óxidos de terras-raras, ou “rare earth oxides” (REO), nos EUA de 2.012 até 2.016 tal como mostrado na tabela 3 onde convencionou-se denominar a demanda interna e externa de uma forma unificada, simplificada por “demanda”, onde tal demanda interna é a indústria dos EUA suprida pelos principais fornecedores externos de terras-raras (China (72%), Estônia (7%), França (5%), Japão (5%)). A partir de 2.014 nota-se uma sutil queda na demanda o que ainda não afetou os preços que insistem em cair. O que pode ocorrer a curto e médio prazo se a queda da demanda persistir é uma elevação dos preços dos REOs dando algum possível novo fôlego às tecnologias de geração eólica que empregam ímãs com terras-raras e elevando a taxa de depósitos de patentes.
+
+Tabela 3. Preços em US$/kg de REO nos EUA para o período de 2.012 até 2.016 [21].
+
+Preço(US$/kg)
+
+Demanda (Ton): Óxido de Nd Óxido de Dy Óxido de Ce
+Óxido de Eu Óxido de La
+
+2012 29.172 75-80
+600-630 10-12
+1.500-1.600 9-11
+
+2013 38.420 65-70
+440-490 5-6
+950-1.000 6
+
+2014 39.864
+
+2015 39.087
+
+2016 29.671
+
+56-60
+
+39-42
+
+38-40
+
+320-360
+
+215-240
+
+183-186
+
+4-5 2 2
+
+680-730
+
+90-110
+
+62-70
+
+5 22
+
+Obs: Nd (Neodímio), Dy (Disprósio), Ce (Cério), Eu (Európio), La (Lantânio).
+
+Consequentemente, todo tipo de tecnologia que faça uso de terras-raras, tal como os geradores eólicos, sofrerá com as suas oscilações de mercado. Assim, a fase de declínio pode ser detectada a partir de 2.013 (figura 10).
+
+Na distribuição por depositantes vemos que a alemã Siemens se destaca entre os dez maiores correspondendo a 29% da atividade patentária no grupo (com 10 documentos), seguida da espanhola Alstom Wind com 5 documentos, seguida do inventor chinês Jinlun Huang com 3 documentos, tal como apresentado no diagrama da figura 11. Vemos que a iniciativa tecnológica chinesa a respeito de ímãs com terras raras aplicados a geradores eólicos não está concentrada num grande laboratório ou empresa, mas pulverizada entre inventores independentes e pequenas empresas ou universidades, mas com poucos depósitos cada. O mesmo pode ser verificado quanto aos EUA e Japão.
+
+15/22
+
+GERADORES EÓLICOS FAZENDO USO DE ÍMÃS COM TERRAS RARAS EM SUA COMPOSIÇÃO QUÍMICA
+Figura 11. Diagrama de competitividade dos 10 principais competidores mostrando que 29% das invenções são da Siemens. (software utilizado: Derwent Innovation / Clarivate Analytics).
+Figura 12. Distribuição geográfica dos 83 depósitos de patentes reunidos por famílias em suas prioridades.
+16/22
+
+GERADORES EÓLICOS FAZENDO USO DE ÍMÃS COM TERRAS RARAS EM SUA COMPOSIÇÃO QUÍMICA
+Figura 13. A origem da tecnologia: este diagrama mostra que 69% de todas as invenções são provenientes da China, Estados Unidos e União Européia (UE), todos sob a liderança chinesa.
+Analisando a origem da tecnologia primeiramente por país vemos que a China está liderando o panorama com 27 depósitos, seguida do Japão com 13 depósitos e 1 patente concedida, por sua vez seguido pelos EUA com 9 depósitos e 3 patentes concedidas, seguida da Inglaterra com 3 depósitos e uma patente concedida e seguidos pelos demais apresentados na figura 13. A China, os EUA e EP correspondem a 69% de todas as publicações patentárias entre os dez maiores depositantes. Ao considerarmos os depósitos feitos pelo Escritório Europeu de Patentes (EP) temos a situação apresentada na figura 13 na qual o EP aparece em segundo lugar. Para todos os cenários vemos que a China está em primeiro lugar.
+4. CONSIDERAÇÕES FINAIS
+As patentes são indicadores intermediários, situados entre a pesquisa básica e a aplicação de uma tecnologia no mercado. Estudos baseados em patentes tem bom valor preditivo de tecnologias que entrarão no mercado e de países e/ou empresas que dominam a tecnologia em um setor. Através delas é possível verificar se um país está acompanhando o desenvolvimento tecnológico, mostrando seu potencial no mercado e atraindo, assim, possíveis investidores.
+Vemos neste Estudo Setorial sobre patentes de geradores eólicos com terras raras uma competição neste setor tecnológico essencialmente entre EUA, alguns países da UE e a China tendo esta última como líder entre os países tal como mostrado na figura 13 e a empresa Siemens da Alemanha como líder entre as empresas (figura 11). A análise da figura 10 e da tabela 3 permite verificar também que a tecnologia de geradores eólicos usando ímãs com terras-raras está numa possível fase de declínio desde 2.013, após uma aparente fase de maturidade entre 2.009 e 2.013. Não foram detectadas invenções depositadas por brasileiros, mas há três registros de depósitos estrangeiros no Brasil. No INPI o depósito BR112012033702 (Gamesa Innovation & Tech) sofreu arquivamento por ausência de manifestação no prazo. Os documentos BR102013026968 (Siemens) e BR102015015624 (General Electric) estão em expectativa de direitos aguardando pelo exame técnico da diretoria de patentes.
+Com base no estudo estratégico da Câmara dos Deputados[20] nota-se que é importante que o nosso país tenha mais investimentos em pesquisa e desenvolvimento (na academia e na indústria brasileira) de extração mineral e também na aquisição de máquinas para mineração por sermos a segunda maior reserva de terras raras do mundo. A ineficiência tecnológica do Brasil no setor causou um déficit na extração de tal forma que posicionou o Brasil como o sexto maior produtor de terras raras.
+17/22
+
+GERADORES EÓLICOS FAZENDO USO DE ÍMÃS COM TERRAS RARAS EM SUA COMPOSIÇÃO QUÍMICA
+Tabela 4. Identificação dos documentos filtrados por famílias de patentes que possuem terras-raras nos imãs de seus geradores eólicos.
+
+DOCUMENTO
+CN101017998A CN101230841A CN101232222A CN101237170A CN101270730A CN101644231A CN101644232A CN101741197A CN101936256A CN102255462A CN104753276A
+CN1889338A CN201065809Y CN201210641Y CN201378785Y CN201461244U CN201541158U CN201723371U CN202167910U CN202260712U CN203482058U CN2821196Y CN2821197Y EP2555381A1 EP2555382A1 EP2555383A1 EP2555385A1 EP2584670A1 CA2822158A1 CA2830247A1 EP2869433A1 CA2894788A1 ES2233146A1 GB2493149 GB201320623D0 JP2001078410A JP2002317748A JP2002320364A JP2004282889A JP2006094645A JP2009219327A JP2010011686A US20100295316A1 US20110043065A1 US20120153630A1 US20120256422A1 US20130169097A1 US7646178B1 EXPIRED DUE TO FAILURE TO PAY MAINTENANCE FEE
+
+DEPOSITADO NO BRASIL?
+N N N N N N N N N N N
+N N N N N N N N N N N N N N N N N N BR102013026968 N BR102015015624 N N N N N N N N N N N N N N N N
+
+DEPOSITANTE/TITULAR
+UNIV SOUTHEAST [CN] JINLUN HUANG [CN] JINLUN HUANG [CN] JINLUN HUANG [CN] GUOBAO CHEN [CN] HONGDA CHEN GUOBAO CHEN SOUTHEAST UNIVERSITY ZHONGYU WANG UNIV HENAN SCIENCE & TECH ZHENGZHOU SCIEN ELECT. CO TIANJIN UNIV WENZHOU SANLIAN GROUP UNIV NANJING NORMAL SOUTHEAST UNIVERSITY SHANGHAI WIND POWER SHANGHAI WANDE WIND POWER XU ZHENG; WENZHEN LI UNIV HENAN SCIENCE & TECH BEIJING UNITED ENERGY HENAN LIANG MING ELECTRONIC ZHONGYUN MACHINE CO ZHONGYUN MACHINE CO SIEMENS AG SIEMENS AG SIEMENS AG SIEMENS AG SIEMENS AG ENVISION ENERGY DENMARK SIEMENS AG SC BMENERGY SRL GEN ELECTRIC MANUEL TORRES MARTINEZ GILES HENRY RODWAY GREENSPUR RENEWABLES LTD SENSAA KIKAKU KK UNIV KOCHI TECHNOLOGY UNIV KOCHI TECHNOLOGY TOSHIBA CORP UNIV KANSAI YASUHIDE KOUCHI MITSUBA CORP DEREK GRASSMAN NORTHERN POWER SYSTEMS INC MICHAEL ROGLER KILDEVAELD RICHARD B. FRADELLA DANOTEK MOTION TECHNOLOGIES RICHARD FRADELLA
+
+TERRA(S)-RARA(S) USADAS NOS ÍMÃS
+NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO
+NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO NEODÍMIO
+
+18/22
+
+US2007247017 US7772741 US20120126539A1 WO2013175252A1 WO2013184107A1 EP2645535A1
+EP2645536A1
+EP2645537A1
+EP2680401A1
+EP2712060A1
+FR2376307A1 JP2005039255A5 US20130249341A1 CN102447328A CN201425001Y CN202026202U CN2874907Y DE102009005956A1 JP4311643B2 CA2728896A1 WO2012001184A1 (prioridade ES20100000838) EP2843803A1 EP2882078A1 CA2877518A1 US20140159374A1
+JP2002153036A JP2006340408A JP2007336784A US20130270950A1 US5818131A AU20110903320 US20100013233A1
+
+N N N N N N
+N
+N
+N
+N
+N N N N N N N N N N BR112012033702
+
+GERADORES EÓLICOS FAZENDO USO DE ÍMÃS COM TERRAS RARAS EM SUA COMPOSIÇÃO QUÍMICA
+
+UNIVERSITY OF DURHAM NORMAN RITTENHOUSE JACOB SAJAN JOSEPH ELIS MANTOVANI MATTHEW JORE ALSTOM WIND SLU
+ALSTOM WIND SLU
+ALSTOM WIND SLU
+ALSTOM WIND SLU
+ALSTOM WIND SLU
+JEAN ASTIER NEOMAX CO LTD GIOVANNI AIROLDI (E OUTROS) HENAN SENYUAN ELECTRIC CO SHANGHAI WIND POWER SHANGHAI WIND POWER UNIV HUNAN AVANTIS LTD MITSUBISHI ELECTRIC CORP SIEMENS AG GAMESA INNOVATION & TECH SL
+
+NEODÍMIO
+NEODÍMIO
+NEODÍMIO
+NEODÍMIO
+NEODÍMIO
+NEODÍMIO SAMÁRIO-COBALTO
+NEODÍMIO SAMÁRIO-COBALTO
+NEODÍMIO SAMÁRIO-COBALTO
+NEODÍMIO SAMÁRIO-COBALTO
+NEODÍMIO SAMÁRIO-COBALTO SAMÁRIO-COBALTO
+ÍTRIO
+DISPRÓSIO
+NÃO ESPECIFICADO
+NÃO ESPECIFICADO
+NÃO ESPECIFICADO
+NÃO ESPECIFICADO
+NÃO ESPECIFICADO
+NÃO ESPECIFICADO
+NÃO ESPECIFICADO
+NÃO ESPECIFICADO
+
+N SIEMENS AG
+
+NÃO ESPECIFICADO
+
+N SIEMENS AG
+
+NÃO ESPECIFICADO
+
+N SIEMENS AG
+
+NÃO ESPECIFICADO
+
+N ASTON GUSTAVOUS FARQUHARSON
+N SUMITOMO SPEC METALS
+
+NÃO ESPECIFICADO NÃO ESPECIFICADO
+
+N KIYOYUKI HOSODA
+
+NÃO ESPECIFICADO
+
+N UNIV KANSAI
+
+NÃO ESPECIFICADO
+
+N SILVIO SEMMER
+
+NÃO ESPECIFICADO
+
+N WEI-MIN ZHANG
+
+NÃO ESPECIFICADO
+
+N NEWSOUTH INNOVATIONS PTY NÃO ESPECIFICADO
+
+N ALBERT BUHTZ
+
+NÃO ESPECIFICADO
+
+19/22
+
+5. REFERÊNCIAS
+
+GERADORES EÓLICOS FAZENDO USO DE ÍMÃS COM TERRAS RARAS EM SUA COMPOSIÇÃO QUÍMICA
+
+[1] “TERRAS RARAS”. INPI – RADAR TECNOLÓGICO. F. R.V. VERDE, ET AL.. 2016.
+
+[2] “GREAT INVENTIONS”. ABBOT, C.G.. SMITHSONIAN SCIENTIFIC SERIES, 1932. PÁGINAS 14 E 15.
+
+[3] “ON A NEW FORM OF WINDMILL”. BLYTH, J.. BRITISH ASSOCIATION FOR THE ADVANCEMENT OF SCIENCE, 62O ENCONTRO, EDINBURGH, 1892.
+
+[4] “ELECTRICITY GENERATION USING WIND POWER”. ZHANG, L.; SHEPHERD, W. WORLD SCIENTIFIC, 2011. PÁGINA 43.
+
+[5] “ENERGIA EÓLICA, PRINCÍPIOS E TECNOLOGIAS”. DUTRA, R.. CEPEL, 2010.
+
+[6] “O APROVEITAMENTO DA ENERGIA EÓLICA”. MARTINS, F.R.; ET AL.. REVISTA BRASILEIRA DE ENSINO DE FÍSICA, 2008.
+
+[7] “WIND TURBINES THEORY - THE BETZ EQUATION AND OPTIMAL ROTOR TIP SPEED RATIO”. RAGHEB, M.; RAGHEB, A.M. FUNDAMENTAL AND ADVANCED TOPICS IN WIND POWER, ISBN:
+978-953-307-508-2. INTECH, 2011.
+
+[8] “WIND POWER GENERATION AND WIND TURBINE DESIGN”. TONG, W.; WIT-PRESS, 2010.
+
+[9] “ELECTRIC MACHINERY”. FITZGERALD, A.E.; KINSLEY, C.; UMANS, S.D.. MCGRAWHILL, 2003.
+
+[10] “MÁQUINAS ELÉTRICAS E ACIONAMENTO”. BIM, E.. ELSEVIER, 2012.
+
+[11] “MODELLING AND CONTROL OF WIND TURBINES INCLUDING AERODYNAMICS”. EL-SHIMY, M.. SCIENTIFIC BULLETIN OF THE FACULTY OF ENGINEERING – AIN SHAMS
+UNIVERSITY. VOL. 41, N.2. CAIRO, EGITO, 30/06/2006.
+
+[12] “FÍSICA: CAMPOS Y ONDAS”. ALONSO, M.; FINN, E.J.. ADDISON-WESLEY PUB., 1970.
+
+[13] “HOW THE WIND FARMS OF THE FUTURE COULD BE UNDERWATER”. 03/01/2015. LINK: HTTPS://EDITION.CNN.COM/2014/12/11/TECH/INNOVATION/SCOTLAND-UNDERWATERTURBINES/INDEX.HTML
+
+[14] “METHOD OF PRODUCING PERMANENT MAGNETS OF RARE-EARTH METALS CONTAINING CO OR MIXTURES OF CO, FE AND MN”. STRNAT, K. ET AL., 1967. PATENTE:
+US3424578A.
+
+[15] “HIGH COERCIVITY RARE EARTH-IRON MAGNETS”. CROAT, J.J., 1985. PATENTE: US4496395.
+
+[16] “PROCESS FOR PRODUCING PERMANENT MAGNET MATERIALS”. MATSUURA, Y., 1986. PATENTE: US4597938.
+
+[17] “PERMANENT MAGNETS HISTORY IN THE ASPECT OF MAGNET ENERGY “. LINK: HTTP://WWW.MAGNETNRG.COM/PM-HISORY.HTML
+
+20/22
+
+GERADORES EÓLICOS FAZENDO USO DE ÍMÃS COM TERRAS RARAS EM SUA COMPOSIÇÃO QUÍMICA
+[18] “DYSPROSIUM FREE RARE EARTH MAGNETS FOR HIGH TEMPERATURE APPLICATIONS”. MAGNETICS MAGAZINE. LINK: HTTP://WWW.MAGNETICSMAGAZINE.COM/MAIN/CHANNELS/MATERIALS-CHANNELS/DYSPROSIUM-FREERARE-EARTH-MAGNETS-FOR-HIGH-TEMPERATURE-APPLICATIONS/ [19] “RARE EARTH ELEMENTS—CRITICAL RESOURCES FOR HIGH TECHNOLOGY”. HAXEL, G.B., ET ALLI. USGS FACT SHEET, 087-02. USGS, 2002. [20] “TERRAS-RARAS: ELEMENTOS ESTRATÉGICOS PARA O BRASIL”. LIMA, P.C.R. ESTUDO – CONSULTORIA LEGISLATIVA. CÂMARA DOS DEPUTADOS, FEVEREIRO DE 2012. [21] “MINERAL COMMODITY SUMARIES”. GAMBOGI, J.. USGS GEOLOGICAL SURVEY. USGS, JANEIRO/2017. [22] LINK (INPI): HTTPS://GRU.INPI.GOV.BR/PEPI/JSP/PATENTES/PATENTESEARCHAVANCADO.JSP [23] LINK (ESPACENET PATENT DATABASE): HTTPS://WORLDWIDE.ESPACENET.COM/ [24] “HEALTH RISK ASSESSMENT OF RARE EARTH ELEMENTS IN CEREALS FROM MINING AREA IN SHANDONG, CHINA”. M. Zhuang, ET AL.. NATURE, SCIENTIFIC REPORTS. VOLUME 7, ARTICLE NUMBER: 9772 (AGOSTO/2017). [25] “AN OPERATIONALLY SIMPLE METHOD FOR SEPARATING THE RARE‐EARTH ELEMENTS NEODYMIUM AND DYSPROSIUM”. J. Bogart ET AL.. ANGEWANDT CHEMIE. Volume54, Issue 28. Julho 6, 2015. Páginas 8222-8225.
+[26] LINK (EREAN - EUROPEAN RARE EARTH (MAGNET) RECYCLING NETWORK): http://erean.eu/project.php [27] “RECYCLING OF NDFEB MAGNETS USING SULFATION, SELECTIVE ROASTING, AND WATER LEACHING”. Mehmet Ali Recai O’nal, et alli. J. Sustain. Metall. (2015) 1:199–215. [28] “COMMERCE RESOURCES WELL POSITIONED FOR ROBUST REE DEMAND GROWTH GOING FORWARD”. LINK: HTTP://ROCKSTONE-RESEARCH.COM/INDEX.PHP/EN/RESEARCHREPORTS/2072-COMMERCE-RESOURCES-WELL-POSITIONED-FOR-ROBUST-REE-DEMAND-GROWTHGOING-FORWARD [29] “A BEGINNER’S GUIDE TO CIRCUIT DIAGRAMS”. LINK: HTTPS://WWW.ELECTRICALENGINEERINGSCHOOLS.ORG/WP-CONTENT/UPLOADS/2014/11/ALLSCHEMATICS3.PNG
+21/22
+
+6. GLOSSÁRIO
+
+GERADORES EÓLICOS FAZENDO USO DE ÍMÃS COM TERRAS RARAS EM SUA COMPOSIÇÃO QUÍMICA
+
+Este glossário apresenta as convenções utilizadas neste trabalho.
+
+(BH)max: medida da força de campo magnético e é muito comum encontrar medidas em MGOe, do sistema CGS), ou em kJ/m3, no SI. Para eventuais conversões: 1 MGOe = 7.957,7 kJ/m3.
+
+Classificação Internacional de Patentes (CIP): É uma ferramenta de indexação dos documentos de patente, que facilita sua recuperação em bases de dados. Esta classificação foi estabelecida no âmbito da Organização Mundial da Propriedade Intelectual (OMPI/WIPO) e está disponível, em português, no site do INPI <www.inpi.gov.br>.
+
+Data de Publicação: Data em que o documento de patente foi publicado, o que ocorre, normalmente, 18 meses após seu depósito.
+
+Documento de patente: Pedido de patente publicado ou patente concedida.
+
+Escritório Europeu de Patentes (EPO): Órgão com sede em Munique, Alemanha, responsável pela análise e concessão de patentes para os países contratantes da Convenção de Munique sobre a Patente Europeia (http://www.epo.org/law-practice/legal-texts/epc.html). O EPO apresenta uma base que abriga documentos de patente de mais de 90 países. Para fazer buscas gratuitas nesta base, acesse o Espacenet pelo link: <http://worldwide.espacenet.com>.
+
+Instituto Nacional da Propriedade Industrial (INPI): Autarquia federal responsável no Brasil pelos registros de marcas, desenhos industriais, indicações geográficas, programas de computador e topografias de circuitos, pelas concessões de patentes e pelas averbações de contratos de franquia e das distintas modalidades de transferência de tecnologia. Para fazer buscas gratuitas nas bases de dados do INPI, acesse o portal pelo link: <http://www.inpi.gov.br>.
+
+22/22
+

@@ -1,0 +1,2 @@
+ctrl+enter ----------pesquisa sobre o comando
+ctrl+F   ------------pesquisa por palavra

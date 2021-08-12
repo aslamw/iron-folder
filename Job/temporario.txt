@@ -1,0 +1,11 @@
+pacotes:
+
+°gspread          ----------é uma API Python para Planilhas Google.
+
+°oauth2client
+
+°peewee           ----------Peewee é um ORM simples e pequeno. 
+Possui poucos (mas expressivos) conceitos, o que o torna fácil de aprender e intuitivo de usar.
+
+°supermemo2       --------Um pacote que implementou o algoritmo de repetição espaçada SM-2 para você calcular 
+rapidamente a sua próxima data de revisão para o que quer que esteja aprendendo.

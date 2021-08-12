@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Resultado</title>
+</head>
+<body>
+    {% if total >= 24 %}
+    <h1>Aprovado</h1>
+    {% elif total >= 20 %}
+    <h1>Recuperação</h1>
+    {% else %}
+    <h1>Reprovado</h1>
+    {% endif %}
+</body>
+</html>
