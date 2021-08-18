@@ -17,8 +17,8 @@ class IA():
         self.nome = conta1
         os.system('cls')
 
-        if conta1 in self.login.keys():
-            print('olá {} sua pontuação {}'.format(conta1,self.login[conta1]))
+        if conta1 in self.login.keys(): print('olá {} sua pontuação {}'.format(conta1,self.login[conta1]))
+
         else:
             self.login[conta1]=0
             print('conta criada')
@@ -28,8 +28,8 @@ class IA():
         dialogo = input('faça sua escolha, em duvida mande um help: ')
          
         while True:
-            if dialogo in self.comandos:
-                eval(f'self.{dialogo}()')
+            if dialogo in self.comandos: eval(f'self.{dialogo}()')
+
             elif dialogo == 'help':
                 print(f'aque está seus comandos {self.comandos}')
                 self.tratamento()
@@ -81,15 +81,13 @@ class IA():
             print(f'ache as letras {dados["parte"] }')
             txt = input('digite uma letra: ')
             os.system('cls')
-            if txt == 'return':
-                self.tratamento()
+            if txt == 'return':self.tratamento()
 
-            elif txt == 'exit':
-                self.tratamento()
+            elif txt == 'exit': exit()
 
             elif dados['tentativa'] <= 15:#limite de tentativas
 
-                if txt in text:
+                if txt in text: 
                     start = 0
 
                     for i in parte:
@@ -97,15 +95,15 @@ class IA():
                             dados['parte'][start]=i
                             start +=1
                             dados['letra'].append(i)
-                        else:# não é essa letra para add
-                            start +=1
+
+                        else:start +=1# não é essa letra para add
 
                     if dados['parte'] == parte:           # ganhou boy
                         print('Boa você ganhou 100 pontos')
                         self.login[self.nome]+=50
                         self.tratamento()
-
-                    dados['tentativa'] += 1
+                    
+                    dados['tentativa'] += 1 #conta a tentativa
 
                 else:  #quando erra
                     os.system('cls')
