@@ -9,5 +9,17 @@ while True:
 
     if escolha == resul:print('empate')
 
-    elif ponto:
-        pass
+    elif escolha == "papel":
+        if resul == 'pedra': print('ganhou')
+        
+        else: print('perdeu')
+    elif escolha == 'pedra':
+        if resul == 'tesoura': print('ganhou')
+
+        else: print('perdeu')
+    elif escolha == 'tesoura':
+        if resul == 'papel': print('ganhou')
+
+        else: print('perdeu')
+    else: print('invalido digite --papel, pedra ou tesoura--')
+    print(resul)
