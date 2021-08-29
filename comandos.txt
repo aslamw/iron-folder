@@ -1,0 +1,88 @@
+ ------------------------CMD-----------------
+echo hello ---------------printa helo
+echo hello > hello.txt ---------cria arquivo txt #linux
+del nome ---------------deleta
+rmdir nome /S /Q  ----------deleta de forma simples e apaga tudo#linux diretorio
+
+###########################################################################
+
+
+-------------------linux-----------------
+rm -rf nome/ ------------------------apaga tudo sem perguntar
+cat > nome.txt-------------cria arquino >> add e atualiza
+cat nome.txt -----------mostra o conteudo
+pwd  -------------------mostra diretorio
+ls -l -------------lista com detalhes
+man -----------manual de algo com ls
+history -----------historico de comandos
+!! -------------------mostra o ultimo comando digitado
+mv pasta novo_nome --------------altera nome
+cp arquivo diretorio ------------faz uma copia
+ls ~ ----------lista horizontal
+touch nome.txt ---------cria um arquivo .txt
+nano nome.txt---------------pra vc escrever ^ == ctrl
+tac nome.txt -----------inverte as linhas
+head nome.txt ----------mostra só 10 linha
+tail nome.txt ----------mostra as 10 ultimas
+cal -----------------mostra calendario
+date --------------data
+tail nome.txt | grep palavra ------------------- marca as palavras
+cat nome.txt | more ---------aperta enter para mostra o resto ou 'less'
+cat nome.txt & nome.txt --------mostra os dois com pausa '&&' sem pausa
+whatis cat --------mostra oq cat faz
+find ~ -name nome.txt --------mostra o caminho do arquivo
+lsusb -------motra oq está conectado no usb
+arch  ----------mostra se é 64bits
+uname ----------nome do kernel com '-r' mostra a verção
+free ----------------mostra a memoria
+du -h ~ -------------mostra diretorio pessoal
+reboot --------reinicia o sistema
+lspci ----------mostra os pci conectados
+history -c --------------limpa o historico
+alias hh='history' -----------muda o comando
+nl nometxt---------------conta o número de linhas
+wc -l nome.txt----------------conta as lihas e as brancas
+wc -c nome txt---------------mostra os bytes
+halt ---------------desliga o sistema
+last ------------- entrada e saida do usuario
+logname -----------------nome do usuario
+id ---------------- id do usuario
+gzip nome.txt -----------compacta .gz se usar -9usa o maximo
+gunzip nome.txt --------------descompactar
+zip nome.zip nome.txt -------------------outra compactação
+unzip nome.zip ------------------descompactar
+bzip2 nome txt -----------------já sabe
+bzip2 -d nome.bz2 ---------------também
+
+############################################################
+
+
+-------------------Git-------------
+openss1 sha1 arquivo.txt ------------criptografa estilo sha
+
+_____________________objetos criptografia hash
+
+                           Blob
+echo 'nome' | git hash-object --stdin ----------criptograva um objeto
+---------------
+ls -a ------------mostra arquivos ocultos
+git config --global user.email "email.com"------add o e-mail
+git config --global user.name nome-------------------add um nome
+mv arquivo.txv .\diretorio -------------move um arquivo para uma pasta
+git config --list ---------------lista tudo do config
+git config --global --unset user.email --------------apaga o email
+git branch -M nome ----------------add nome branch main
+git branch -m nome_atual new_name --------------muda nome de um qualquer
+git remote -v ----------ver repositorio
+git pull origin main --------caso tenha conflito
+
+#########################################################
+
+
+-------------------------Docker-----------------------------------
+docker stats ------------------------------mostra os estatos do dockers rodando
+docker run --name nome-nome -p 80:80 -d nginx ---------cria o conteiner imagens
+docker images -------------- olha as imagens
+docker ps ---------------- dados da image
+docker rm nome-nome ---------- remove para forçar '-f' e pode usar os 4 primeiro digitos
+docker rmi nginx ------------- remove o nginx
