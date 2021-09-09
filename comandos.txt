@@ -54,7 +54,7 @@ unzip nome.zip ------------------descompactar
 bzip2 nome txt -----------------já sabe
 bzip2 -d nome.bz2 ---------------também
 
-############################################################
+##################################################################
 
 
 -------------------Git-------------
@@ -76,7 +76,7 @@ git branch -m nome_atual new_name --------------muda nome de um qualquer
 git remote -v ----------ver repositorio
 git pull origin main --------caso tenha conflito
 
-#########################################################
+###############################################################
 
 
 -------------------------Docker-----------------------------------
@@ -86,8 +86,11 @@ docker images -------------- olha as imagens
 docker ps ---------------- dados da image
 docker rm nome-nome ---------- remove para forçar '-f' e pode usar os 4 primeiro digitos
 docker rmi nginx ------------- remove o nginx
+<<<<<<< HEAD
 docker run -------------------- criar o container 
 docker info --------------------- mostra as informações
 docker exec ---------------executando binario no container
 docker logs ---------- ver logados
 docker 
+=======
+>>>>>>> eb1278433dcb6595435a1edf5abf25e1eeb4b375
