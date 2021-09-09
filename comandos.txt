@@ -81,8 +81,13 @@ git pull origin main --------caso tenha conflito
 
 -------------------------Docker-----------------------------------
 docker stats ------------------------------mostra os estatos do dockers rodando
-docker run --name nome-nome -p 80:80 -d nginx ---------cria o conteiner imagens
+docker run --name nome-nome -p 80:80 -d nginx ---------cria o conteiner imagens 'pode ser até o nome'
 docker images -------------- olha as imagens
 docker ps ---------------- dados da image
 docker rm nome-nome ---------- remove para forçar '-f' e pode usar os 4 primeiro digitos
 docker rmi nginx ------------- remove o nginx
+docker run -------------------- criar o container 
+docker info --------------------- mostra as informações
+docker exec ---------------executando binario no container
+docker logs ---------- ver logados
+docker 
