@@ -75,6 +75,7 @@ git branch -M nome ----------------add nome branch main
 git branch -m nome_atual new_name --------------muda nome de um qualquer
 git remote -v ----------ver repositorio
 git pull origin main --------caso tenha conflito
+git diff  ------------------mostra oq foi alterado
 
 ###############################################################
 
